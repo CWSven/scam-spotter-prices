@@ -194,6 +194,26 @@
     {
       "keywords": "golf clubs",
       "min": 100
+    },
+    {
+      "keywords": "storage shed",
+      "min": 250
+    },
+    {
+      "keywords": "hot tub",
+      "min": 400
+    },
+    {
+      "keywords": "above ground pool",
+      "min": 120
+    },
+    {
+      "keywords": "gazebo",
+      "min": 120
+    },
+    {
+      "keywords": "pergola",
+      "min": 150
     }
   ]
 }
