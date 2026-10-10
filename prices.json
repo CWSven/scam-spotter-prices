@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "updated": "2026-10-10",
+  "about": "Lowest believable asking prices (USD) for used items often faked in marketplace scams. Used by the Scam Spotter browser extension. Listings priced below these get a warning sign. Updated weekly from public used-price research; no eBay or Facebook data.",
+  "items": [
+    {
+      "keywords": "ego pressure washer",
+      "min": 200
+    },
+    {
+      "keywords": "ego power",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 16",
+      "min": 400
+    },
+    {
+      "keywords": "iphone 15",
+      "min": 300
+    },
+    {
+      "keywords": "iphone 14",
+      "min": 220
+    },
+    {
+      "keywords": "iphone 13",
+      "min": 160
+    },
+    {
+      "keywords": "ps5",
+      "min": 250
+    },
+    {
+      "keywords": "playstation 5",
+      "min": 250
+    },
+    {
+      "keywords": "xbox series x",
+      "min": 200
+    },
+    {
+      "keywords": "nintendo switch oled",
+      "min": 150
+    },
+    {
+      "keywords": "nintendo switch",
+      "min": 90
+    },
+    {
+      "keywords": "macbook pro",
+      "min": 400
+    },
+    {
+      "keywords": "macbook air",
+      "min": 300
+    },
+    {
+      "keywords": "macbook",
+      "min": 250
+    },
+    {
+      "keywords": "ipad pro",
+      "min": 300
+    },
+    {
+      "keywords": "ipad",
+      "min": 120
+    },
+    {
+      "keywords": "airpods max",
+      "min": 200
+    },
+    {
+      "keywords": "airpods pro",
+      "min": 80
+    },
+    {
+      "keywords": "apple watch",
+      "min": 100
+    },
+    {
+      "keywords": "rtx 4090",
+      "min": 1000
+    },
+    {
+      "keywords": "rtx 4080",
+      "min": 600
+    },
+    {
+      "keywords": "rtx 4070",
+      "min": 350
+    },
+    {
+      "keywords": "rtx 3080",
+      "min": 300
+    },
+    {
+      "keywords": "gaming pc",
+      "min": 300
+    },
+    {
+      "keywords": "dyson",
+      "min": 120
+    },
+    {
+      "keywords": "vitamix",
+      "min": 120
+    },
+    {
+      "keywords": "kitchenaid mixer",
+      "min": 120
+    },
+    {
+      "keywords": "traeger",
+      "min": 250
+    },
+    {
+      "keywords": "blackstone",
+      "min": 120
+    },
+    {
+      "keywords": "yeti",
+      "min": 80
+    },
+    {
+      "keywords": "milwaukee",
+      "min": 80
+    },
+    {
+      "keywords": "dewalt",
+      "min": 70
+    },
+    {
+      "keywords": "makita",
+      "min": 70
+    },
+    {
+      "keywords": "snap-on",
+      "min": 150
+    },
+    {
+      "keywords": "generator",
+      "min": 200
+    },
+    {
+      "keywords": "pressure washer",
+      "min": 70
+    },
+    {
+      "keywords": "canon eos",
+      "min": 300
+    },
+    {
+      "keywords": "sony a7",
+      "min": 500
+    },
+    {
+      "keywords": "nikon z",
+      "min": 400
+    },
+    {
+      "keywords": "gopro",
+      "min": 100
+    },
+    {
+      "keywords": "dji",
+      "min": 200
+    },
+    {
+      "keywords": "rolex",
+      "min": 2000
+    },
+    {
+      "keywords": "omega",
+      "min": 800
+    },
+    {
+      "keywords": "peloton",
+      "min": 300
+    },
+    {
+      "keywords": "electric bike",
+      "min": 300
+    },
+    {
+      "keywords": "ebike",
+      "min": 300
+    },
+    {
+      "keywords": "oled tv",
+      "min": 300
+    },
+    {
+      "keywords": "golf clubs",
+      "min": 100
+    }
+  ]
+}
