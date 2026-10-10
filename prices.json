@@ -214,6 +214,34 @@
     {
       "keywords": "pergola",
       "min": 150
+    },
+    {
+      "keywords": "louis vuitton",
+      "min": 300
+    },
+    {
+      "keywords": "chanel",
+      "min": 800
+    },
+    {
+      "keywords": "hermes",
+      "min": 1000
+    },
+    {
+      "keywords": "gucci",
+      "min": 200
+    },
+    {
+      "keywords": "cartier",
+      "min": 500
+    },
+    {
+      "keywords": "prada",
+      "min": 200
+    },
+    {
+      "keywords": "dior",
+      "min": 300
     }
   ]
 }
