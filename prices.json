@@ -1,31 +1,411 @@
 {
   "format": 1,
   "updated": "2026-10-10",
-  "about": "Lowest believable asking prices (USD) for used items often faked in marketplace scams. Used by the Scam Spotter browser extension. Listings priced below these get a warning sign. Updated weekly from public used-price research; no eBay or Facebook data.",
+  "about": "Lowest believable asking prices (USD) for used items often faked in marketplace scams, by model where it matters. Used by the Scam Spotter browser extension. Listings priced below these get a warning sign. Updated weekly from public used-price research; no eBay or Facebook data.",
   "items": [
     {
-      "keywords": "ego pressure washer",
-      "min": 200
+      "keywords": "iphone 17 pro max",
+      "min": 750
     },
     {
-      "keywords": "ego power",
-      "min": 100
+      "keywords": "iphone 17 pro",
+      "min": 650
+    },
+    {
+      "keywords": "iphone air",
+      "min": 500
+    },
+    {
+      "keywords": "iphone 17",
+      "min": 450
+    },
+    {
+      "keywords": "iphone 16 pro max",
+      "min": 550
+    },
+    {
+      "keywords": "iphone 16 pro",
+      "min": 450
+    },
+    {
+      "keywords": "iphone 16 plus",
+      "min": 380
+    },
+    {
+      "keywords": "iphone 16e",
+      "min": 280
     },
     {
       "keywords": "iphone 16",
-      "min": 400
+      "min": 330
     },
     {
-      "keywords": "iphone 15",
+      "keywords": "iphone 15 pro max",
+      "min": 420
+    },
+    {
+      "keywords": "iphone 15 pro",
+      "min": 350
+    },
+    {
+      "keywords": "iphone 15 plus",
       "min": 300
     },
     {
-      "keywords": "iphone 14",
+      "keywords": "iphone 15",
+      "min": 260
+    },
+    {
+      "keywords": "iphone 14 pro max",
+      "min": 320
+    },
+    {
+      "keywords": "iphone 14 pro",
+      "min": 270
+    },
+    {
+      "keywords": "iphone 14 plus",
       "min": 220
     },
     {
+      "keywords": "iphone 14",
+      "min": 190
+    },
+    {
+      "keywords": "iphone 13 pro max",
+      "min": 250
+    },
+    {
+      "keywords": "iphone 13 pro",
+      "min": 210
+    },
+    {
+      "keywords": "iphone 13 mini",
+      "min": 140
+    },
+    {
       "keywords": "iphone 13",
-      "min": 160
+      "min": 150
+    },
+    {
+      "keywords": "iphone 12 pro max",
+      "min": 180
+    },
+    {
+      "keywords": "iphone 12 pro",
+      "min": 150
+    },
+    {
+      "keywords": "iphone 12",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 11 pro max",
+      "min": 120
+    },
+    {
+      "keywords": "iphone 11 pro",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 11",
+      "min": 80
+    },
+    {
+      "keywords": "galaxy s25 ultra",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy s25",
+      "min": 380
+    },
+    {
+      "keywords": "galaxy s24 ultra",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy s24",
+      "min": 280
+    },
+    {
+      "keywords": "galaxy s23 ultra",
+      "min": 330
+    },
+    {
+      "keywords": "galaxy s23",
+      "min": 200
+    },
+    {
+      "keywords": "galaxy fold 7",
+      "min": 900
+    },
+    {
+      "keywords": "galaxy fold7",
+      "min": 900
+    },
+    {
+      "keywords": "galaxy fold 6",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy fold6",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy fold 5",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy fold5",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy flip 7",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy flip7",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy flip 6",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy flip6",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy flip 5",
+      "min": 250
+    },
+    {
+      "keywords": "galaxy flip5",
+      "min": 250
+    },
+    {
+      "keywords": "pixel 10 pro",
+      "min": 550
+    },
+    {
+      "keywords": "pixel 10",
+      "min": 380
+    },
+    {
+      "keywords": "pixel 9 pro",
+      "min": 420
+    },
+    {
+      "keywords": "pixel 9",
+      "min": 280
+    },
+    {
+      "keywords": "pixel 8 pro",
+      "min": 280
+    },
+    {
+      "keywords": "pixel 8",
+      "min": 190
+    },
+    {
+      "keywords": "pixel 7 pro",
+      "min": 170
+    },
+    {
+      "keywords": "pixel 7",
+      "min": 120
+    },
+    {
+      "keywords": "ipad pro m4",
+      "min": 550
+    },
+    {
+      "keywords": "ipad pro m2",
+      "min": 400
+    },
+    {
+      "keywords": "ipad pro",
+      "min": 250
+    },
+    {
+      "keywords": "ipad air m3",
+      "min": 350
+    },
+    {
+      "keywords": "ipad air m2",
+      "min": 300
+    },
+    {
+      "keywords": "ipad air",
+      "min": 170
+    },
+    {
+      "keywords": "ipad mini 7",
+      "min": 250
+    },
+    {
+      "keywords": "ipad mini 6",
+      "min": 180
+    },
+    {
+      "keywords": "ipad mini",
+      "min": 110
+    },
+    {
+      "keywords": "ipad",
+      "min": 90
+    },
+    {
+      "keywords": "galaxy tab s10",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy tab s9",
+      "min": 250
+    },
+    {
+      "keywords": "macbook pro m4",
+      "min": 900
+    },
+    {
+      "keywords": "macbook pro m3",
+      "min": 750
+    },
+    {
+      "keywords": "macbook pro m2",
+      "min": 600
+    },
+    {
+      "keywords": "macbook pro m1",
+      "min": 450
+    },
+    {
+      "keywords": "macbook pro",
+      "min": 300
+    },
+    {
+      "keywords": "macbook air m4",
+      "min": 600
+    },
+    {
+      "keywords": "macbook air m3",
+      "min": 500
+    },
+    {
+      "keywords": "macbook air m2",
+      "min": 400
+    },
+    {
+      "keywords": "macbook air m1",
+      "min": 300
+    },
+    {
+      "keywords": "macbook air",
+      "min": 200
+    },
+    {
+      "keywords": "macbook",
+      "min": 180
+    },
+    {
+      "keywords": "mac mini m4",
+      "min": 350
+    },
+    {
+      "keywords": "mac studio",
+      "min": 900
+    },
+    {
+      "keywords": "imac m3",
+      "min": 600
+    },
+    {
+      "keywords": "imac m1",
+      "min": 400
+    },
+    {
+      "keywords": "steam deck oled",
+      "min": 330
+    },
+    {
+      "keywords": "steam deck",
+      "min": 200
+    },
+    {
+      "keywords": "rog ally",
+      "min": 260
+    },
+    {
+      "keywords": "rtx 5090",
+      "min": 1800
+    },
+    {
+      "keywords": "rtx 5080",
+      "min": 800
+    },
+    {
+      "keywords": "rtx 5070 ti",
+      "min": 550
+    },
+    {
+      "keywords": "rtx 5070",
+      "min": 400
+    },
+    {
+      "keywords": "rtx 4090",
+      "min": 1200
+    },
+    {
+      "keywords": "rtx 4080",
+      "min": 650
+    },
+    {
+      "keywords": "rtx 4070 ti",
+      "min": 450
+    },
+    {
+      "keywords": "rtx 4070",
+      "min": 350
+    },
+    {
+      "keywords": "rtx 4060",
+      "min": 190
+    },
+    {
+      "keywords": "rtx 3090",
+      "min": 500
+    },
+    {
+      "keywords": "rtx 3080",
+      "min": 300
+    },
+    {
+      "keywords": "rtx 3070",
+      "min": 200
+    },
+    {
+      "keywords": "rtx 3060",
+      "min": 140
+    },
+    {
+      "keywords": "rx 7900 xtx",
+      "min": 550
+    },
+    {
+      "keywords": "rx 7900 xt",
+      "min": 450
+    },
+    {
+      "keywords": "gaming pc",
+      "min": 300
+    },
+    {
+      "keywords": "ps5 pro",
+      "min": 480
+    },
+    {
+      "keywords": "playstation 5 pro",
+      "min": 480
     },
     {
       "keywords": "ps5",
@@ -36,147 +416,527 @@
       "min": 250
     },
     {
+      "keywords": "ps vr2",
+      "min": 180
+    },
+    {
+      "keywords": "playstation portal",
+      "min": 110
+    },
+    {
       "keywords": "xbox series x",
-      "min": 200
+      "min": 220
+    },
+    {
+      "keywords": "xbox series s",
+      "min": 130
+    },
+    {
+      "keywords": "nintendo switch 2",
+      "min": 300
+    },
+    {
+      "keywords": "switch 2",
+      "min": 300
     },
     {
       "keywords": "nintendo switch oled",
-      "min": 150
+      "min": 160
+    },
+    {
+      "keywords": "nintendo switch lite",
+      "min": 80
     },
     {
       "keywords": "nintendo switch",
-      "min": 90
+      "min": 100
     },
     {
-      "keywords": "macbook pro",
-      "min": 400
+      "keywords": "meta quest 3s",
+      "min": 170
     },
     {
-      "keywords": "macbook air",
-      "min": 300
+      "keywords": "meta quest 3",
+      "min": 280
     },
     {
-      "keywords": "macbook",
-      "min": 250
+      "keywords": "quest 3",
+      "min": 280
     },
     {
-      "keywords": "ipad pro",
-      "min": 300
+      "keywords": "oculus quest 2",
+      "min": 100
     },
     {
-      "keywords": "ipad",
-      "min": 120
+      "keywords": "quest 2",
+      "min": 100
     },
     {
-      "keywords": "airpods max",
-      "min": 200
+      "keywords": "airpods pro 3",
+      "min": 130
+    },
+    {
+      "keywords": "airpods pro 2",
+      "min": 100
     },
     {
       "keywords": "airpods pro",
       "min": 80
     },
     {
-      "keywords": "apple watch",
-      "min": 100
+      "keywords": "airpods max",
+      "min": 220
     },
     {
-      "keywords": "rtx 4090",
-      "min": 1000
-    },
-    {
-      "keywords": "rtx 4080",
-      "min": 600
-    },
-    {
-      "keywords": "rtx 4070",
-      "min": 350
-    },
-    {
-      "keywords": "rtx 3080",
-      "min": 300
-    },
-    {
-      "keywords": "gaming pc",
-      "min": 300
-    },
-    {
-      "keywords": "dyson",
-      "min": 120
-    },
-    {
-      "keywords": "vitamix",
-      "min": 120
-    },
-    {
-      "keywords": "kitchenaid mixer",
-      "min": 120
-    },
-    {
-      "keywords": "traeger",
-      "min": 250
-    },
-    {
-      "keywords": "blackstone",
-      "min": 120
-    },
-    {
-      "keywords": "yeti",
-      "min": 80
-    },
-    {
-      "keywords": "milwaukee",
-      "min": 80
-    },
-    {
-      "keywords": "dewalt",
+      "keywords": "airpods 4",
       "min": 70
     },
     {
-      "keywords": "makita",
-      "min": 70
+      "keywords": "airpods",
+      "min": 50
     },
     {
-      "keywords": "snap-on",
-      "min": 150
+      "keywords": "sonos arc",
+      "min": 400
     },
     {
-      "keywords": "generator",
+      "keywords": "sonos beam",
       "min": 200
     },
     {
-      "keywords": "pressure washer",
-      "min": 70
+      "keywords": "sonos era 300",
+      "min": 200
+    },
+    {
+      "keywords": "sonos era 100",
+      "min": 100
+    },
+    {
+      "keywords": "bose quietcomfort ultra",
+      "min": 180
+    },
+    {
+      "keywords": "sony wh-1000xm6",
+      "min": 220
+    },
+    {
+      "keywords": "sony wh-1000xm5",
+      "min": 150
+    },
+    {
+      "keywords": "sony wh-1000xm4",
+      "min": 100
+    },
+    {
+      "keywords": "apple watch ultra 3",
+      "min": 450
+    },
+    {
+      "keywords": "apple watch ultra 2",
+      "min": 350
+    },
+    {
+      "keywords": "apple watch ultra",
+      "min": 250
+    },
+    {
+      "keywords": "apple watch series 11",
+      "min": 230
+    },
+    {
+      "keywords": "apple watch series 10",
+      "min": 200
+    },
+    {
+      "keywords": "apple watch series 9",
+      "min": 150
+    },
+    {
+      "keywords": "apple watch",
+      "min": 80
+    },
+    {
+      "keywords": "canon eos r5",
+      "min": 1500
+    },
+    {
+      "keywords": "canon eos r6",
+      "min": 900
+    },
+    {
+      "keywords": "canon eos r8",
+      "min": 800
+    },
+    {
+      "keywords": "canon eos r",
+      "min": 500
     },
     {
       "keywords": "canon eos",
-      "min": 300
+      "min": 200
+    },
+    {
+      "keywords": "sony a7 iv",
+      "min": 1300
+    },
+    {
+      "keywords": "sony a7 iii",
+      "min": 800
+    },
+    {
+      "keywords": "sony a7c",
+      "min": 900
     },
     {
       "keywords": "sony a7",
       "min": 500
     },
     {
+      "keywords": "sony a6400",
+      "min": 450
+    },
+    {
+      "keywords": "fujifilm x100vi",
+      "min": 1200
+    },
+    {
+      "keywords": "fujifilm x100v",
+      "min": 900
+    },
+    {
+      "keywords": "fujifilm x-t5",
+      "min": 1000
+    },
+    {
+      "keywords": "nikon z8",
+      "min": 2200
+    },
+    {
+      "keywords": "nikon z6",
+      "min": 700
+    },
+    {
       "keywords": "nikon z",
-      "min": 400
+      "min": 350
     },
     {
-      "keywords": "gopro",
-      "min": 100
-    },
-    {
-      "keywords": "dji",
+      "keywords": "gopro hero 13",
       "min": 200
     },
     {
-      "keywords": "rolex",
-      "min": 2000
+      "keywords": "gopro hero 12",
+      "min": 170
     },
     {
-      "keywords": "omega",
+      "keywords": "gopro",
+      "min": 80
+    },
+    {
+      "keywords": "dji mini 4 pro",
+      "min": 450
+    },
+    {
+      "keywords": "dji mini 3",
+      "min": 280
+    },
+    {
+      "keywords": "dji osmo pocket 3",
+      "min": 300
+    },
+    {
+      "keywords": "dji avata",
+      "min": 300
+    },
+    {
+      "keywords": "dji",
+      "min": 120
+    },
+    {
+      "keywords": "milwaukee battery",
+      "min": 30
+    },
+    {
+      "keywords": "milwaukee packout",
+      "min": 40
+    },
+    {
+      "keywords": "milwaukee impact driver",
+      "min": 60
+    },
+    {
+      "keywords": "milwaukee hammer drill",
+      "min": 70
+    },
+    {
+      "keywords": "milwaukee drill",
+      "min": 60
+    },
+    {
+      "keywords": "milwaukee impact wrench",
+      "min": 120
+    },
+    {
+      "keywords": "milwaukee circular saw",
+      "min": 80
+    },
+    {
+      "keywords": "milwaukee sawzall",
+      "min": 70
+    },
+    {
+      "keywords": "milwaukee chainsaw",
+      "min": 150
+    },
+    {
+      "keywords": "milwaukee blower",
+      "min": 80
+    },
+    {
+      "keywords": "milwaukee string trimmer",
+      "min": 100
+    },
+    {
+      "keywords": "milwaukee combo kit",
+      "min": 150
+    },
+    {
+      "keywords": "milwaukee grinder",
+      "min": 60
+    },
+    {
+      "keywords": "milwaukee miter saw",
+      "min": 200
+    },
+    {
+      "keywords": "milwaukee table saw",
+      "min": 300
+    },
+    {
+      "keywords": "dewalt battery",
+      "min": 25
+    },
+    {
+      "keywords": "dewalt impact driver",
+      "min": 50
+    },
+    {
+      "keywords": "dewalt drill",
+      "min": 50
+    },
+    {
+      "keywords": "dewalt combo kit",
+      "min": 120
+    },
+    {
+      "keywords": "dewalt circular saw",
+      "min": 70
+    },
+    {
+      "keywords": "dewalt miter saw",
+      "min": 150
+    },
+    {
+      "keywords": "dewalt table saw",
+      "min": 200
+    },
+    {
+      "keywords": "dewalt impact wrench",
+      "min": 90
+    },
+    {
+      "keywords": "dewalt chainsaw",
+      "min": 120
+    },
+    {
+      "keywords": "dewalt blower",
+      "min": 60
+    },
+    {
+      "keywords": "makita battery",
+      "min": 25
+    },
+    {
+      "keywords": "makita impact driver",
+      "min": 50
+    },
+    {
+      "keywords": "makita drill",
+      "min": 50
+    },
+    {
+      "keywords": "makita combo kit",
+      "min": 120
+    },
+    {
+      "keywords": "makita miter saw",
+      "min": 180
+    },
+    {
+      "keywords": "makita blower",
+      "min": 60
+    },
+    {
+      "keywords": "makita chainsaw",
+      "min": 120
+    },
+    {
+      "keywords": "makita circular saw",
+      "min": 70
+    },
+    {
+      "keywords": "ego pressure washer",
+      "min": 200
+    },
+    {
+      "keywords": "ego battery",
+      "min": 40
+    },
+    {
+      "keywords": "ego mower",
+      "min": 200
+    },
+    {
+      "keywords": "ego snow blower",
+      "min": 300
+    },
+    {
+      "keywords": "ego blower",
+      "min": 80
+    },
+    {
+      "keywords": "ego string trimmer",
+      "min": 80
+    },
+    {
+      "keywords": "ego chainsaw",
+      "min": 100
+    },
+    {
+      "keywords": "snap-on tool box",
       "min": 800
     },
     {
-      "keywords": "peloton",
+      "keywords": "snap-on impact",
+      "min": 150
+    },
+    {
+      "keywords": "honda generator",
+      "min": 500
+    },
+    {
+      "keywords": "predator generator",
+      "min": 250
+    },
+    {
+      "keywords": "inverter generator",
+      "min": 200
+    },
+    {
+      "keywords": "generator",
+      "min": 150
+    },
+    {
+      "keywords": "pressure washer",
+      "min": 70
+    },
+    {
+      "keywords": "dyson v15",
+      "min": 200
+    },
+    {
+      "keywords": "dyson v12",
+      "min": 150
+    },
+    {
+      "keywords": "dyson v11",
+      "min": 120
+    },
+    {
+      "keywords": "dyson v10",
+      "min": 90
+    },
+    {
+      "keywords": "dyson v8",
+      "min": 70
+    },
+    {
+      "keywords": "dyson airwrap",
+      "min": 200
+    },
+    {
+      "keywords": "dyson supersonic",
+      "min": 150
+    },
+    {
+      "keywords": "dyson",
+      "min": 50
+    },
+    {
+      "keywords": "vitamix",
+      "min": 90
+    },
+    {
+      "keywords": "kitchenaid mixer",
+      "min": 100
+    },
+    {
+      "keywords": "ninja creami",
+      "min": 60
+    },
+    {
+      "keywords": "breville barista express",
+      "min": 200
+    },
+    {
+      "keywords": "traeger timberline",
+      "min": 800
+    },
+    {
+      "keywords": "traeger ironwood",
+      "min": 400
+    },
+    {
+      "keywords": "traeger",
+      "min": 150
+    },
+    {
+      "keywords": "blackstone griddle",
+      "min": 80
+    },
+    {
+      "keywords": "yeti tundra",
+      "min": 100
+    },
+    {
+      "keywords": "yeti roadie",
+      "min": 90
+    },
+    {
+      "keywords": "yeti hopper",
+      "min": 80
+    },
+    {
+      "keywords": "solo stove",
+      "min": 80
+    },
+    {
+      "keywords": "weber genesis",
+      "min": 250
+    },
+    {
+      "keywords": "peloton tread",
+      "min": 1000
+    },
+    {
+      "keywords": "peloton bike plus",
+      "min": 600
+    },
+    {
+      "keywords": "peloton row",
+      "min": 800
+    },
+    {
+      "keywords": "peloton bike",
       "min": 300
     },
     {
@@ -188,8 +948,16 @@
       "min": 300
     },
     {
-      "keywords": "oled tv",
-      "min": 300
+      "keywords": "onewheel",
+      "min": 500
+    },
+    {
+      "keywords": "electric scooter",
+      "min": 120
+    },
+    {
+      "keywords": "golf cart",
+      "min": 2000
     },
     {
       "keywords": "golf clubs",
@@ -224,24 +992,80 @@
       "min": 150
     },
     {
-      "keywords": "louis vuitton",
+      "keywords": "oled tv",
       "min": 300
     },
     {
-      "keywords": "chanel",
+      "keywords": "rolex daytona",
+      "min": 12000
+    },
+    {
+      "keywords": "rolex submariner",
+      "min": 6000
+    },
+    {
+      "keywords": "rolex gmt",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex datejust",
+      "min": 3500
+    },
+    {
+      "keywords": "rolex",
+      "min": 2500
+    },
+    {
+      "keywords": "omega speedmaster",
+      "min": 2500
+    },
+    {
+      "keywords": "omega seamaster",
+      "min": 1800
+    },
+    {
+      "keywords": "omega",
       "min": 800
     },
     {
-      "keywords": "hermes",
-      "min": 1000
-    },
-    {
-      "keywords": "gucci",
-      "min": 200
+      "keywords": "cartier love bracelet",
+      "min": 3000
     },
     {
       "keywords": "cartier",
       "min": 500
+    },
+    {
+      "keywords": "louis vuitton neverfull",
+      "min": 500
+    },
+    {
+      "keywords": "louis vuitton speedy",
+      "min": 450
+    },
+    {
+      "keywords": "louis vuitton",
+      "min": 200
+    },
+    {
+      "keywords": "chanel flap",
+      "min": 3000
+    },
+    {
+      "keywords": "chanel",
+      "min": 600
+    },
+    {
+      "keywords": "hermes birkin",
+      "min": 6000
+    },
+    {
+      "keywords": "hermes",
+      "min": 800
+    },
+    {
+      "keywords": "gucci",
+      "min": 200
     },
     {
       "keywords": "prada",
@@ -249,6 +1073,14 @@
     },
     {
       "keywords": "dior",
+      "min": 300
+    },
+    {
+      "keywords": "canada goose",
+      "min": 250
+    },
+    {
+      "keywords": "moncler",
       "min": 300
     }
   ]

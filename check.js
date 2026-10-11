@@ -5,7 +5,7 @@ var data = JSON.parse(fs.readFileSync(__dirname + '/prices.json', 'utf8'));
 var problems = [];
 if (data.format !== 1) problems.push('format must be 1');
 if (!/^\d{4}-\d{2}-\d{2}$/.test(data.updated || '')) problems.push('updated must be YYYY-MM-DD');
-if (!Array.isArray(data.items) || data.items.length < 20 || data.items.length > 300) problems.push('items must be a list of 20-300 entries');
+if (!Array.isArray(data.items) || data.items.length < 20 || data.items.length > 1000) problems.push('items must be a list of 20-1000 entries');
 var seen = {};
 (data.items || []).forEach(function (it, i) {
   if (!/^[a-z0-9][a-z0-9 +.\-]{1,39}$/.test(it.keywords || '')) problems.push('item ' + i + ': bad keywords "' + it.keywords + '"');
