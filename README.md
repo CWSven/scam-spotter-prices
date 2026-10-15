@@ -5,10 +5,13 @@ marketplace scams. The [Scam Spotter](../scam-spotter) browser extension downloa
 listing priced below the number gets a warning sign. Each user's copy of the extension can also learn
 local prices from listings they browse, and their own prices in Settings always win.
 
-- `items`: `{ "keywords": "iphone 15 pro max", "min": 420 }`, up to 1000. A listing title matches the most
+- `items`: `{ "keywords": "iphone 15 pro max", "min": 420 }`, up to 2000. A listing title matches the most
   specific entry whose keywords appear in it in order ("iphone 15 pro max" over "iphone 15"). Entries are by
   model or tool type, not whole brands: a brand like Milwaukee or YETI sells everything from $20 items to $800 ones.
   Specific entries still come before general ones (check.js enforces it).
+- Sizes can appear anywhere in a title: storage (`256gb`, `1tb`), battery size (`5ah`; "5.0Ah", "XC5.0" and
+  "5 Ah" all count) and screen size (`65in`; 65", 65-inch and TV model codes like OLED65C3 all count). So
+  `iphone 15 pro 256gb` matches "256GB iPhone 15 Pro", and `lg c3 65in` matches "LG 65" C3 OLED".
 - `min` is about 50-60% of the typical used price: low enough that honest bargains pass, high enough
   that "too good to be true" prices get flagged.
 - Updated weekly from public used-price research (resale sites, trade-in values, price guides,

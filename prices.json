@@ -1,18 +1,66 @@
 {
   "format": 1,
-  "updated": "2026-10-10",
+  "updated": "2026-10-14",
   "about": "Lowest believable asking prices (USD) for used items often faked in marketplace scams, by model where it matters. Used by the Scam Spotter browser extension. Listings priced below these get a warning sign. Updated weekly from public used-price research; no eBay or Facebook data.",
   "items": [
     {
+      "keywords": "iphone 17 pro max 256gb",
+      "min": 750
+    },
+    {
+      "keywords": "iphone 17 pro max 512gb",
+      "min": 830
+    },
+    {
+      "keywords": "iphone 17 pro max 1tb",
+      "min": 920
+    },
+    {
+      "keywords": "iphone 17 pro max 2tb",
+      "min": 1010
+    },
+    {
       "keywords": "iphone 17 pro max",
       "min": 750
+    },
+    {
+      "keywords": "iphone 17 pro 256gb",
+      "min": 650
+    },
+    {
+      "keywords": "iphone 17 pro 512gb",
+      "min": 720
+    },
+    {
+      "keywords": "iphone 17 pro 1tb",
+      "min": 790
     },
     {
       "keywords": "iphone 17 pro",
       "min": 650
     },
     {
+      "keywords": "iphone air 256gb",
+      "min": 500
+    },
+    {
+      "keywords": "iphone air 512gb",
+      "min": 550
+    },
+    {
+      "keywords": "iphone air 1tb",
+      "min": 610
+    },
+    {
       "keywords": "iphone air",
+      "min": 500
+    },
+    {
+      "keywords": "iphone 17 256gb",
+      "min": 450
+    },
+    {
+      "keywords": "iphone 17 512gb",
       "min": 500
     },
     {
@@ -20,47 +68,207 @@
       "min": 450
     },
     {
+      "keywords": "iphone 16 pro max 256gb",
+      "min": 550
+    },
+    {
+      "keywords": "iphone 16 pro max 512gb",
+      "min": 600
+    },
+    {
+      "keywords": "iphone 16 pro max 1tb",
+      "min": 670
+    },
+    {
       "keywords": "iphone 16 pro max",
       "min": 550
+    },
+    {
+      "keywords": "iphone 16 pro 128gb",
+      "min": 450
+    },
+    {
+      "keywords": "iphone 16 pro 256gb",
+      "min": 500
+    },
+    {
+      "keywords": "iphone 16 pro 512gb",
+      "min": 550
+    },
+    {
+      "keywords": "iphone 16 pro 1tb",
+      "min": 610
     },
     {
       "keywords": "iphone 16 pro",
       "min": 450
     },
     {
+      "keywords": "iphone 16 plus 128gb",
+      "min": 380
+    },
+    {
+      "keywords": "iphone 16 plus 256gb",
+      "min": 420
+    },
+    {
+      "keywords": "iphone 16 plus 512gb",
+      "min": 460
+    },
+    {
       "keywords": "iphone 16 plus",
       "min": 380
+    },
+    {
+      "keywords": "iphone 16e 128gb",
+      "min": 280
+    },
+    {
+      "keywords": "iphone 16e 256gb",
+      "min": 310
+    },
+    {
+      "keywords": "iphone 16e 512gb",
+      "min": 340
     },
     {
       "keywords": "iphone 16e",
       "min": 280
     },
     {
+      "keywords": "iphone 16 128gb",
+      "min": 330
+    },
+    {
+      "keywords": "iphone 16 256gb",
+      "min": 360
+    },
+    {
+      "keywords": "iphone 16 512gb",
+      "min": 400
+    },
+    {
       "keywords": "iphone 16",
       "min": 330
+    },
+    {
+      "keywords": "iphone 15 pro max 256gb",
+      "min": 420
+    },
+    {
+      "keywords": "iphone 15 pro max 512gb",
+      "min": 460
+    },
+    {
+      "keywords": "iphone 15 pro max 1tb",
+      "min": 510
     },
     {
       "keywords": "iphone 15 pro max",
       "min": 420
     },
     {
+      "keywords": "iphone 15 pro 128gb",
+      "min": 350
+    },
+    {
+      "keywords": "iphone 15 pro 256gb",
+      "min": 390
+    },
+    {
+      "keywords": "iphone 15 pro 512gb",
+      "min": 430
+    },
+    {
+      "keywords": "iphone 15 pro 1tb",
+      "min": 470
+    },
+    {
       "keywords": "iphone 15 pro",
       "min": 350
+    },
+    {
+      "keywords": "iphone 15 plus 128gb",
+      "min": 300
+    },
+    {
+      "keywords": "iphone 15 plus 256gb",
+      "min": 330
+    },
+    {
+      "keywords": "iphone 15 plus 512gb",
+      "min": 370
     },
     {
       "keywords": "iphone 15 plus",
       "min": 300
     },
     {
+      "keywords": "iphone 15 128gb",
+      "min": 260
+    },
+    {
+      "keywords": "iphone 15 256gb",
+      "min": 290
+    },
+    {
+      "keywords": "iphone 15 512gb",
+      "min": 320
+    },
+    {
       "keywords": "iphone 15",
       "min": 260
+    },
+    {
+      "keywords": "iphone 14 pro max 128gb",
+      "min": 320
+    },
+    {
+      "keywords": "iphone 14 pro max 256gb",
+      "min": 350
+    },
+    {
+      "keywords": "iphone 14 pro max 512gb",
+      "min": 390
+    },
+    {
+      "keywords": "iphone 14 pro max 1tb",
+      "min": 430
     },
     {
       "keywords": "iphone 14 pro max",
       "min": 320
     },
     {
+      "keywords": "iphone 14 pro 128gb",
+      "min": 270
+    },
+    {
+      "keywords": "iphone 14 pro 256gb",
+      "min": 300
+    },
+    {
+      "keywords": "iphone 14 pro 512gb",
+      "min": 330
+    },
+    {
+      "keywords": "iphone 14 pro 1tb",
+      "min": 360
+    },
+    {
       "keywords": "iphone 14 pro",
+      "min": 270
+    },
+    {
+      "keywords": "iphone 14 plus 128gb",
+      "min": 220
+    },
+    {
+      "keywords": "iphone 14 plus 256gb",
+      "min": 240
+    },
+    {
+      "keywords": "iphone 14 plus 512gb",
       "min": 270
     },
     {
@@ -68,39 +276,183 @@
       "min": 220
     },
     {
+      "keywords": "iphone 14 128gb",
+      "min": 190
+    },
+    {
+      "keywords": "iphone 14 256gb",
+      "min": 210
+    },
+    {
+      "keywords": "iphone 14 512gb",
+      "min": 230
+    },
+    {
       "keywords": "iphone 14",
       "min": 190
+    },
+    {
+      "keywords": "iphone 13 pro max 128gb",
+      "min": 250
+    },
+    {
+      "keywords": "iphone 13 pro max 256gb",
+      "min": 275
+    },
+    {
+      "keywords": "iphone 13 pro max 512gb",
+      "min": 305
+    },
+    {
+      "keywords": "iphone 13 pro max 1tb",
+      "min": 340
     },
     {
       "keywords": "iphone 13 pro max",
       "min": 250
     },
     {
+      "keywords": "iphone 13 pro 128gb",
+      "min": 210
+    },
+    {
+      "keywords": "iphone 13 pro 256gb",
+      "min": 230
+    },
+    {
+      "keywords": "iphone 13 pro 512gb",
+      "min": 255
+    },
+    {
+      "keywords": "iphone 13 pro 1tb",
+      "min": 285
+    },
+    {
       "keywords": "iphone 13 pro",
       "min": 210
+    },
+    {
+      "keywords": "iphone 13 mini 128gb",
+      "min": 140
+    },
+    {
+      "keywords": "iphone 13 mini 256gb",
+      "min": 155
+    },
+    {
+      "keywords": "iphone 13 mini 512gb",
+      "min": 170
     },
     {
       "keywords": "iphone 13 mini",
       "min": 140
     },
     {
+      "keywords": "iphone 13 128gb",
+      "min": 150
+    },
+    {
+      "keywords": "iphone 13 256gb",
+      "min": 165
+    },
+    {
+      "keywords": "iphone 13 512gb",
+      "min": 185
+    },
+    {
       "keywords": "iphone 13",
       "min": 150
+    },
+    {
+      "keywords": "iphone 12 pro max 128gb",
+      "min": 180
+    },
+    {
+      "keywords": "iphone 12 pro max 256gb",
+      "min": 200
+    },
+    {
+      "keywords": "iphone 12 pro max 512gb",
+      "min": 220
     },
     {
       "keywords": "iphone 12 pro max",
       "min": 180
     },
     {
+      "keywords": "iphone 12 pro 128gb",
+      "min": 150
+    },
+    {
+      "keywords": "iphone 12 pro 256gb",
+      "min": 165
+    },
+    {
+      "keywords": "iphone 12 pro 512gb",
+      "min": 185
+    },
+    {
       "keywords": "iphone 12 pro",
       "min": 150
+    },
+    {
+      "keywords": "iphone 12 mini 64gb",
+      "min": 80
+    },
+    {
+      "keywords": "iphone 12 mini 128gb",
+      "min": 90
+    },
+    {
+      "keywords": "iphone 12 mini 256gb",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 12 mini",
+      "min": 80
+    },
+    {
+      "keywords": "iphone 12 64gb",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 12 128gb",
+      "min": 110
+    },
+    {
+      "keywords": "iphone 12 256gb",
+      "min": 120
     },
     {
       "keywords": "iphone 12",
       "min": 100
     },
     {
+      "keywords": "iphone 11 pro max 64gb",
+      "min": 120
+    },
+    {
+      "keywords": "iphone 11 pro max 256gb",
+      "min": 130
+    },
+    {
+      "keywords": "iphone 11 pro max 512gb",
+      "min": 145
+    },
+    {
       "keywords": "iphone 11 pro max",
+      "min": 120
+    },
+    {
+      "keywords": "iphone 11 pro 64gb",
+      "min": 100
+    },
+    {
+      "keywords": "iphone 11 pro 256gb",
+      "min": 110
+    },
+    {
+      "keywords": "iphone 11 pro 512gb",
       "min": 120
     },
     {
@@ -108,108 +460,692 @@
       "min": 100
     },
     {
+      "keywords": "iphone 11 64gb",
+      "min": 80
+    },
+    {
+      "keywords": "iphone 11 128gb",
+      "min": 90
+    },
+    {
+      "keywords": "iphone 11 256gb",
+      "min": 100
+    },
+    {
       "keywords": "iphone 11",
       "min": 80
+    },
+    {
+      "keywords": "iphone xs max 64gb",
+      "min": 70
+    },
+    {
+      "keywords": "iphone xs max 256gb",
+      "min": 75
+    },
+    {
+      "keywords": "iphone xs max 512gb",
+      "min": 85
+    },
+    {
+      "keywords": "iphone xs max",
+      "min": 70
+    },
+    {
+      "keywords": "iphone xs 64gb",
+      "min": 55
+    },
+    {
+      "keywords": "iphone xs 256gb",
+      "min": 60
+    },
+    {
+      "keywords": "iphone xs 512gb",
+      "min": 65
+    },
+    {
+      "keywords": "iphone xs",
+      "min": 55
+    },
+    {
+      "keywords": "iphone xr 64gb",
+      "min": 55
+    },
+    {
+      "keywords": "iphone xr 128gb",
+      "min": 60
+    },
+    {
+      "keywords": "iphone xr 256gb",
+      "min": 65
+    },
+    {
+      "keywords": "iphone xr",
+      "min": 55
+    },
+    {
+      "keywords": "iphone x 64gb",
+      "min": 45
+    },
+    {
+      "keywords": "iphone x 256gb",
+      "min": 50
+    },
+    {
+      "keywords": "iphone x",
+      "min": 45
+    },
+    {
+      "keywords": "iphone 10 64gb",
+      "min": 45
+    },
+    {
+      "keywords": "iphone 10 256gb",
+      "min": 50
+    },
+    {
+      "keywords": "iphone 10",
+      "min": 45
+    },
+    {
+      "keywords": "iphone se 2022 64gb",
+      "min": 80
+    },
+    {
+      "keywords": "iphone se 2022 128gb",
+      "min": 90
+    },
+    {
+      "keywords": "iphone se 2022 256gb",
+      "min": 100
+    },
+    {
+      "keywords": "iphone se 2022",
+      "min": 80
+    },
+    {
+      "keywords": "iphone se",
+      "min": 45
+    },
+    {
+      "keywords": "galaxy s26 ultra 256gb",
+      "min": 800
+    },
+    {
+      "keywords": "galaxy s26 ultra 512gb",
+      "min": 880
+    },
+    {
+      "keywords": "galaxy s26 ultra 1tb",
+      "min": 980
+    },
+    {
+      "keywords": "galaxy s26 ultra",
+      "min": 800
+    },
+    {
+      "keywords": "galaxy s26 plus 256gb",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy s26 plus 512gb",
+      "min": 660
+    },
+    {
+      "keywords": "galaxy s26 plus",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy s26 edge 256gb",
+      "min": 520
+    },
+    {
+      "keywords": "galaxy s26 edge 512gb",
+      "min": 570
+    },
+    {
+      "keywords": "galaxy s26 edge",
+      "min": 520
+    },
+    {
+      "keywords": "galaxy s26 256gb",
+      "min": 520
+    },
+    {
+      "keywords": "galaxy s26 512gb",
+      "min": 570
+    },
+    {
+      "keywords": "galaxy s26",
+      "min": 520
+    },
+    {
+      "keywords": "galaxy s25 ultra 256gb",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy s25 ultra 512gb",
+      "min": 660
+    },
+    {
+      "keywords": "galaxy s25 ultra 1tb",
+      "min": 730
     },
     {
       "keywords": "galaxy s25 ultra",
       "min": 600
     },
     {
+      "keywords": "galaxy s25 plus 256gb",
+      "min": 480
+    },
+    {
+      "keywords": "galaxy s25 plus 512gb",
+      "min": 530
+    },
+    {
+      "keywords": "galaxy s25 plus",
+      "min": 480
+    },
+    {
+      "keywords": "galaxy s25 edge 256gb",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy s25 edge 512gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy s25 edge",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy s25 fe",
+      "min": 300
+    },
+    {
+      "keywords": "galaxy s25 128gb",
+      "min": 380
+    },
+    {
+      "keywords": "galaxy s25 256gb",
+      "min": 420
+    },
+    {
+      "keywords": "galaxy s25 512gb",
+      "min": 460
+    },
+    {
       "keywords": "galaxy s25",
       "min": 380
+    },
+    {
+      "keywords": "galaxy s24 ultra 256gb",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy s24 ultra 512gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy s24 ultra 1tb",
+      "min": 550
     },
     {
       "keywords": "galaxy s24 ultra",
       "min": 450
     },
     {
+      "keywords": "galaxy s24 plus 256gb",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy s24 plus 512gb",
+      "min": 390
+    },
+    {
+      "keywords": "galaxy s24 plus",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy s24 fe",
+      "min": 230
+    },
+    {
+      "keywords": "galaxy s24 128gb",
+      "min": 280
+    },
+    {
+      "keywords": "galaxy s24 256gb",
+      "min": 310
+    },
+    {
+      "keywords": "galaxy s24 512gb",
+      "min": 340
+    },
+    {
       "keywords": "galaxy s24",
       "min": 280
+    },
+    {
+      "keywords": "galaxy s23 ultra 256gb",
+      "min": 330
+    },
+    {
+      "keywords": "galaxy s23 ultra 512gb",
+      "min": 360
+    },
+    {
+      "keywords": "galaxy s23 ultra 1tb",
+      "min": 400
     },
     {
       "keywords": "galaxy s23 ultra",
       "min": 330
     },
     {
+      "keywords": "galaxy s23 plus 256gb",
+      "min": 260
+    },
+    {
+      "keywords": "galaxy s23 plus 512gb",
+      "min": 290
+    },
+    {
+      "keywords": "galaxy s23 plus",
+      "min": 260
+    },
+    {
+      "keywords": "galaxy s23 fe",
+      "min": 170
+    },
+    {
+      "keywords": "galaxy s23 128gb",
+      "min": 200
+    },
+    {
+      "keywords": "galaxy s23 256gb",
+      "min": 220
+    },
+    {
+      "keywords": "galaxy s23 512gb",
+      "min": 240
+    },
+    {
       "keywords": "galaxy s23",
       "min": 200
+    },
+    {
+      "keywords": "galaxy s22 ultra",
+      "min": 230
+    },
+    {
+      "keywords": "galaxy s22 plus",
+      "min": 170
+    },
+    {
+      "keywords": "galaxy s22",
+      "min": 150
+    },
+    {
+      "keywords": "galaxy fold 7 256gb",
+      "min": 900
+    },
+    {
+      "keywords": "galaxy fold 7 512gb",
+      "min": 990
+    },
+    {
+      "keywords": "galaxy fold 7 1tb",
+      "min": 1100
     },
     {
       "keywords": "galaxy fold 7",
       "min": 900
     },
     {
+      "keywords": "galaxy fold7 256gb",
+      "min": 900
+    },
+    {
+      "keywords": "galaxy fold7 512gb",
+      "min": 990
+    },
+    {
+      "keywords": "galaxy fold7 1tb",
+      "min": 1100
+    },
+    {
       "keywords": "galaxy fold7",
       "min": 900
+    },
+    {
+      "keywords": "galaxy fold 6 256gb",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy fold 6 512gb",
+      "min": 660
+    },
+    {
+      "keywords": "galaxy fold 6 1tb",
+      "min": 730
     },
     {
       "keywords": "galaxy fold 6",
       "min": 600
     },
     {
+      "keywords": "galaxy fold6 256gb",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy fold6 512gb",
+      "min": 660
+    },
+    {
+      "keywords": "galaxy fold6 1tb",
+      "min": 730
+    },
+    {
       "keywords": "galaxy fold6",
       "min": 600
+    },
+    {
+      "keywords": "galaxy fold 5 256gb",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy fold 5 512gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy fold 5 1tb",
+      "min": 550
     },
     {
       "keywords": "galaxy fold 5",
       "min": 450
     },
     {
+      "keywords": "galaxy fold5 256gb",
+      "min": 450
+    },
+    {
+      "keywords": "galaxy fold5 512gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy fold5 1tb",
+      "min": 550
+    },
+    {
       "keywords": "galaxy fold5",
       "min": 450
+    },
+    {
+      "keywords": "galaxy flip 7 256gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy flip 7 512gb",
+      "min": 550
     },
     {
       "keywords": "galaxy flip 7",
       "min": 500
     },
     {
+      "keywords": "galaxy flip7 256gb",
+      "min": 500
+    },
+    {
+      "keywords": "galaxy flip7 512gb",
+      "min": 550
+    },
+    {
       "keywords": "galaxy flip7",
       "min": 500
+    },
+    {
+      "keywords": "galaxy flip 6 256gb",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy flip 6 512gb",
+      "min": 390
     },
     {
       "keywords": "galaxy flip 6",
       "min": 350
     },
     {
+      "keywords": "galaxy flip6 256gb",
+      "min": 350
+    },
+    {
+      "keywords": "galaxy flip6 512gb",
+      "min": 390
+    },
+    {
       "keywords": "galaxy flip6",
       "min": 350
+    },
+    {
+      "keywords": "galaxy flip 5 256gb",
+      "min": 250
+    },
+    {
+      "keywords": "galaxy flip 5 512gb",
+      "min": 280
     },
     {
       "keywords": "galaxy flip 5",
       "min": 250
     },
     {
+      "keywords": "galaxy flip5 256gb",
+      "min": 250
+    },
+    {
+      "keywords": "galaxy flip5 512gb",
+      "min": 280
+    },
+    {
       "keywords": "galaxy flip5",
       "min": 250
+    },
+    {
+      "keywords": "pixel 10 pro fold 256gb",
+      "min": 900
+    },
+    {
+      "keywords": "pixel 10 pro fold 512gb",
+      "min": 990
+    },
+    {
+      "keywords": "pixel 10 pro fold 1tb",
+      "min": 1100
+    },
+    {
+      "keywords": "pixel 10 pro fold",
+      "min": 900
+    },
+    {
+      "keywords": "pixel 10 pro xl 256gb",
+      "min": 650
+    },
+    {
+      "keywords": "pixel 10 pro xl 512gb",
+      "min": 720
+    },
+    {
+      "keywords": "pixel 10 pro xl 1tb",
+      "min": 790
+    },
+    {
+      "keywords": "pixel 10 pro xl",
+      "min": 650
+    },
+    {
+      "keywords": "pixel 10 pro 128gb",
+      "min": 550
+    },
+    {
+      "keywords": "pixel 10 pro 256gb",
+      "min": 600
+    },
+    {
+      "keywords": "pixel 10 pro 512gb",
+      "min": 670
+    },
+    {
+      "keywords": "pixel 10 pro 1tb",
+      "min": 740
     },
     {
       "keywords": "pixel 10 pro",
       "min": 550
     },
     {
+      "keywords": "pixel 10 128gb",
+      "min": 380
+    },
+    {
+      "keywords": "pixel 10 256gb",
+      "min": 420
+    },
+    {
       "keywords": "pixel 10",
       "min": 380
+    },
+    {
+      "keywords": "pixel 9 pro fold 256gb",
+      "min": 650
+    },
+    {
+      "keywords": "pixel 9 pro fold 512gb",
+      "min": 720
+    },
+    {
+      "keywords": "pixel 9 pro fold",
+      "min": 650
+    },
+    {
+      "keywords": "pixel 9 pro xl 128gb",
+      "min": 480
+    },
+    {
+      "keywords": "pixel 9 pro xl 256gb",
+      "min": 530
+    },
+    {
+      "keywords": "pixel 9 pro xl 512gb",
+      "min": 590
+    },
+    {
+      "keywords": "pixel 9 pro xl 1tb",
+      "min": 650
+    },
+    {
+      "keywords": "pixel 9 pro xl",
+      "min": 480
+    },
+    {
+      "keywords": "pixel 9 pro 128gb",
+      "min": 420
+    },
+    {
+      "keywords": "pixel 9 pro 256gb",
+      "min": 460
+    },
+    {
+      "keywords": "pixel 9 pro 512gb",
+      "min": 510
+    },
+    {
+      "keywords": "pixel 9 pro 1tb",
+      "min": 570
     },
     {
       "keywords": "pixel 9 pro",
       "min": 420
     },
     {
+      "keywords": "pixel 9a",
+      "min": 220
+    },
+    {
+      "keywords": "pixel 9 128gb",
+      "min": 280
+    },
+    {
+      "keywords": "pixel 9 256gb",
+      "min": 310
+    },
+    {
       "keywords": "pixel 9",
       "min": 280
+    },
+    {
+      "keywords": "pixel 8 pro 128gb",
+      "min": 280
+    },
+    {
+      "keywords": "pixel 8 pro 256gb",
+      "min": 310
+    },
+    {
+      "keywords": "pixel 8 pro 512gb",
+      "min": 340
+    },
+    {
+      "keywords": "pixel 8 pro 1tb",
+      "min": 380
     },
     {
       "keywords": "pixel 8 pro",
       "min": 280
     },
     {
+      "keywords": "pixel 8a",
+      "min": 160
+    },
+    {
+      "keywords": "pixel 8 128gb",
+      "min": 190
+    },
+    {
+      "keywords": "pixel 8 256gb",
+      "min": 210
+    },
+    {
       "keywords": "pixel 8",
       "min": 190
     },
     {
+      "keywords": "pixel 7 pro 128gb",
+      "min": 170
+    },
+    {
+      "keywords": "pixel 7 pro 256gb",
+      "min": 190
+    },
+    {
+      "keywords": "pixel 7 pro 512gb",
+      "min": 210
+    },
+    {
       "keywords": "pixel 7 pro",
       "min": 170
+    },
+    {
+      "keywords": "pixel 7 128gb",
+      "min": 120
+    },
+    {
+      "keywords": "pixel 7 256gb",
+      "min": 130
     },
     {
       "keywords": "pixel 7",
@@ -264,6 +1200,42 @@
       "min": 250
     },
     {
+      "keywords": "macbook pro m5",
+      "min": 1000
+    },
+    {
+      "keywords": "macbook pro m4 max",
+      "min": 1700
+    },
+    {
+      "keywords": "macbook pro m4 pro",
+      "min": 1200
+    },
+    {
+      "keywords": "macbook pro m3 max",
+      "min": 1400
+    },
+    {
+      "keywords": "macbook pro m3 pro",
+      "min": 950
+    },
+    {
+      "keywords": "macbook pro m2 max",
+      "min": 1100
+    },
+    {
+      "keywords": "macbook pro m2 pro",
+      "min": 800
+    },
+    {
+      "keywords": "macbook pro m1 max",
+      "min": 850
+    },
+    {
+      "keywords": "macbook pro m1 pro",
+      "min": 650
+    },
+    {
       "keywords": "macbook pro m4",
       "min": 900
     },
@@ -278,6 +1250,10 @@
     {
       "keywords": "macbook pro m1",
       "min": 450
+    },
+    {
+      "keywords": "macbook pro 16",
+      "min": 350
     },
     {
       "keywords": "macbook pro",
@@ -332,8 +1308,416 @@
       "min": 200
     },
     {
+      "keywords": "rog xbox ally x",
+      "min": 450
+    },
+    {
+      "keywords": "xbox ally x",
+      "min": 450
+    },
+    {
+      "keywords": "rog xbox ally",
+      "min": 250
+    },
+    {
+      "keywords": "xbox ally",
+      "min": 250
+    },
+    {
+      "keywords": "rog ally x",
+      "min": 350
+    },
+    {
       "keywords": "rog ally",
       "min": 260
+    },
+    {
+      "keywords": "legion go 2",
+      "min": 500
+    },
+    {
+      "keywords": "legion go s",
+      "min": 250
+    },
+    {
+      "keywords": "legion go",
+      "min": 250
+    },
+    {
+      "keywords": "msi claw 8",
+      "min": 350
+    },
+    {
+      "keywords": "msi claw",
+      "min": 200
+    },
+    {
+      "keywords": "razer blade 18 2025",
+      "min": 1600
+    },
+    {
+      "keywords": "razer blade 18",
+      "min": 1100
+    },
+    {
+      "keywords": "razer blade 16 2025",
+      "min": 1300
+    },
+    {
+      "keywords": "razer blade 16 2024",
+      "min": 1100
+    },
+    {
+      "keywords": "razer blade 16",
+      "min": 900
+    },
+    {
+      "keywords": "razer blade 14 2025",
+      "min": 900
+    },
+    {
+      "keywords": "razer blade 14 2024",
+      "min": 800
+    },
+    {
+      "keywords": "razer blade 14",
+      "min": 650
+    },
+    {
+      "keywords": "razer blade 17",
+      "min": 500
+    },
+    {
+      "keywords": "razer blade 15",
+      "min": 450
+    },
+    {
+      "keywords": "zephyrus g16 2025",
+      "min": 1000
+    },
+    {
+      "keywords": "zephyrus g16 2024",
+      "min": 850
+    },
+    {
+      "keywords": "zephyrus g16",
+      "min": 650
+    },
+    {
+      "keywords": "zephyrus g14 2025",
+      "min": 900
+    },
+    {
+      "keywords": "zephyrus g14 2024",
+      "min": 750
+    },
+    {
+      "keywords": "zephyrus g14",
+      "min": 500
+    },
+    {
+      "keywords": "rog strix scar 18",
+      "min": 1000
+    },
+    {
+      "keywords": "rog strix scar 16",
+      "min": 900
+    },
+    {
+      "keywords": "rog strix g18",
+      "min": 650
+    },
+    {
+      "keywords": "rog strix g16",
+      "min": 550
+    },
+    {
+      "keywords": "rog flow z13",
+      "min": 700
+    },
+    {
+      "keywords": "tuf gaming a16",
+      "min": 400
+    },
+    {
+      "keywords": "tuf gaming a15",
+      "min": 350
+    },
+    {
+      "keywords": "tuf gaming f15",
+      "min": 350
+    },
+    {
+      "keywords": "proart p16",
+      "min": 1000
+    },
+    {
+      "keywords": "zenbook duo",
+      "min": 700
+    },
+    {
+      "keywords": "zenbook 14",
+      "min": 350
+    },
+    {
+      "keywords": "alienware 18 area-51",
+      "min": 1400
+    },
+    {
+      "keywords": "alienware 16 area-51",
+      "min": 1200
+    },
+    {
+      "keywords": "alienware m18",
+      "min": 800
+    },
+    {
+      "keywords": "alienware x16",
+      "min": 900
+    },
+    {
+      "keywords": "alienware m16",
+      "min": 700
+    },
+    {
+      "keywords": "alienware x17",
+      "min": 600
+    },
+    {
+      "keywords": "alienware x15",
+      "min": 500
+    },
+    {
+      "keywords": "alienware m15",
+      "min": 400
+    },
+    {
+      "keywords": "legion pro 7i",
+      "min": 900
+    },
+    {
+      "keywords": "legion pro 7",
+      "min": 900
+    },
+    {
+      "keywords": "legion pro 5i",
+      "min": 650
+    },
+    {
+      "keywords": "legion pro 5",
+      "min": 650
+    },
+    {
+      "keywords": "legion slim 7",
+      "min": 650
+    },
+    {
+      "keywords": "legion slim 5",
+      "min": 500
+    },
+    {
+      "keywords": "legion 7i",
+      "min": 650
+    },
+    {
+      "keywords": "legion 7",
+      "min": 650
+    },
+    {
+      "keywords": "legion 5i",
+      "min": 450
+    },
+    {
+      "keywords": "legion 5",
+      "min": 450
+    },
+    {
+      "keywords": "thinkpad x1 carbon",
+      "min": 350
+    },
+    {
+      "keywords": "thinkpad x1 yoga",
+      "min": 350
+    },
+    {
+      "keywords": "thinkpad p1",
+      "min": 500
+    },
+    {
+      "keywords": "thinkpad t14s",
+      "min": 250
+    },
+    {
+      "keywords": "thinkpad t14",
+      "min": 220
+    },
+    {
+      "keywords": "xps 16",
+      "min": 700
+    },
+    {
+      "keywords": "xps 14",
+      "min": 600
+    },
+    {
+      "keywords": "xps 17",
+      "min": 450
+    },
+    {
+      "keywords": "xps 15",
+      "min": 400
+    },
+    {
+      "keywords": "xps 13",
+      "min": 300
+    },
+    {
+      "keywords": "spectre x360",
+      "min": 350
+    },
+    {
+      "keywords": "omen transcend 14",
+      "min": 550
+    },
+    {
+      "keywords": "omen 17",
+      "min": 450
+    },
+    {
+      "keywords": "omen 16",
+      "min": 450
+    },
+    {
+      "keywords": "victus 16",
+      "min": 300
+    },
+    {
+      "keywords": "victus 15",
+      "min": 250
+    },
+    {
+      "keywords": "surface laptop studio 2",
+      "min": 900
+    },
+    {
+      "keywords": "surface laptop studio",
+      "min": 600
+    },
+    {
+      "keywords": "surface laptop 7",
+      "min": 500
+    },
+    {
+      "keywords": "surface laptop 6",
+      "min": 400
+    },
+    {
+      "keywords": "surface laptop 5",
+      "min": 300
+    },
+    {
+      "keywords": "surface pro 11",
+      "min": 500
+    },
+    {
+      "keywords": "surface pro 10",
+      "min": 450
+    },
+    {
+      "keywords": "surface pro 9",
+      "min": 350
+    },
+    {
+      "keywords": "surface pro 8",
+      "min": 250
+    },
+    {
+      "keywords": "galaxy book5 pro",
+      "min": 600
+    },
+    {
+      "keywords": "galaxy book4 ultra",
+      "min": 900
+    },
+    {
+      "keywords": "galaxy book4 pro",
+      "min": 450
+    },
+    {
+      "keywords": "lg gram 17",
+      "min": 400
+    },
+    {
+      "keywords": "lg gram 16",
+      "min": 350
+    },
+    {
+      "keywords": "framework laptop 16",
+      "min": 800
+    },
+    {
+      "keywords": "framework laptop 13",
+      "min": 450
+    },
+    {
+      "keywords": "msi titan 18",
+      "min": 1800
+    },
+    {
+      "keywords": "msi raider 18",
+      "min": 1300
+    },
+    {
+      "keywords": "msi raider",
+      "min": 900
+    },
+    {
+      "keywords": "msi stealth 16",
+      "min": 900
+    },
+    {
+      "keywords": "msi stealth 14",
+      "min": 700
+    },
+    {
+      "keywords": "msi vector 16",
+      "min": 750
+    },
+    {
+      "keywords": "msi katana",
+      "min": 400
+    },
+    {
+      "keywords": "msi cyborg",
+      "min": 350
+    },
+    {
+      "keywords": "predator helios neo 16",
+      "min": 500
+    },
+    {
+      "keywords": "predator helios 18",
+      "min": 900
+    },
+    {
+      "keywords": "predator helios 16",
+      "min": 650
+    },
+    {
+      "keywords": "predator helios 300",
+      "min": 300
+    },
+    {
+      "keywords": "nitro v 15",
+      "min": 300
+    },
+    {
+      "keywords": "nitro 5",
+      "min": 250
+    },
+    {
+      "keywords": "aorus 16x",
+      "min": 650
     },
     {
       "keywords": "rtx 5090",
@@ -352,40 +1736,152 @@
       "min": 400
     },
     {
+      "keywords": "rtx 5060 ti",
+      "min": 250
+    },
+    {
+      "keywords": "rtx 5060",
+      "min": 200
+    },
+    {
+      "keywords": "rtx 5050",
+      "min": 150
+    },
+    {
       "keywords": "rtx 4090",
       "min": 1200
+    },
+    {
+      "keywords": "rtx 4080 super",
+      "min": 700
     },
     {
       "keywords": "rtx 4080",
       "min": 650
     },
     {
+      "keywords": "rtx 4070 ti super",
+      "min": 500
+    },
+    {
       "keywords": "rtx 4070 ti",
       "min": 450
+    },
+    {
+      "keywords": "rtx 4070 super",
+      "min": 400
     },
     {
       "keywords": "rtx 4070",
       "min": 350
     },
     {
+      "keywords": "rtx 4060 ti",
+      "min": 230
+    },
+    {
       "keywords": "rtx 4060",
       "min": 190
+    },
+    {
+      "keywords": "rtx 3090 ti",
+      "min": 550
     },
     {
       "keywords": "rtx 3090",
       "min": 500
     },
     {
+      "keywords": "rtx 3080 ti",
+      "min": 350
+    },
+    {
       "keywords": "rtx 3080",
       "min": 300
+    },
+    {
+      "keywords": "rtx 3070 ti",
+      "min": 220
     },
     {
       "keywords": "rtx 3070",
       "min": 200
     },
     {
+      "keywords": "rtx 3060 ti",
+      "min": 170
+    },
+    {
       "keywords": "rtx 3060",
       "min": 140
+    },
+    {
+      "keywords": "rtx 3050",
+      "min": 100
+    },
+    {
+      "keywords": "rtx 2080 ti",
+      "min": 220
+    },
+    {
+      "keywords": "rtx 2080 super",
+      "min": 170
+    },
+    {
+      "keywords": "rtx 2080",
+      "min": 150
+    },
+    {
+      "keywords": "rtx 2070 super",
+      "min": 140
+    },
+    {
+      "keywords": "rtx 2070",
+      "min": 120
+    },
+    {
+      "keywords": "rtx 2060 super",
+      "min": 110
+    },
+    {
+      "keywords": "rtx 2060",
+      "min": 90
+    },
+    {
+      "keywords": "gtx 1660 super",
+      "min": 70
+    },
+    {
+      "keywords": "gtx 1660 ti",
+      "min": 70
+    },
+    {
+      "keywords": "gtx 1660",
+      "min": 60
+    },
+    {
+      "keywords": "gtx 1080 ti",
+      "min": 120
+    },
+    {
+      "keywords": "gtx 1080",
+      "min": 80
+    },
+    {
+      "keywords": "gtx 1070",
+      "min": 60
+    },
+    {
+      "keywords": "rx 9070 xt",
+      "min": 400
+    },
+    {
+      "keywords": "rx 9070",
+      "min": 350
+    },
+    {
+      "keywords": "rx 9060 xt",
+      "min": 200
     },
     {
       "keywords": "rx 7900 xtx",
@@ -394,6 +1890,82 @@
     {
       "keywords": "rx 7900 xt",
       "min": 450
+    },
+    {
+      "keywords": "rx 7900 gre",
+      "min": 350
+    },
+    {
+      "keywords": "rx 7800 xt",
+      "min": 300
+    },
+    {
+      "keywords": "rx 7700 xt",
+      "min": 250
+    },
+    {
+      "keywords": "rx 7600 xt",
+      "min": 170
+    },
+    {
+      "keywords": "rx 7600",
+      "min": 150
+    },
+    {
+      "keywords": "rx 6950 xt",
+      "min": 300
+    },
+    {
+      "keywords": "rx 6900 xt",
+      "min": 280
+    },
+    {
+      "keywords": "rx 6800 xt",
+      "min": 250
+    },
+    {
+      "keywords": "rx 6800",
+      "min": 220
+    },
+    {
+      "keywords": "rx 6750 xt",
+      "min": 180
+    },
+    {
+      "keywords": "rx 6700 xt",
+      "min": 160
+    },
+    {
+      "keywords": "rx 6650 xt",
+      "min": 140
+    },
+    {
+      "keywords": "rx 6600 xt",
+      "min": 130
+    },
+    {
+      "keywords": "rx 6600",
+      "min": 110
+    },
+    {
+      "keywords": "rx 5700 xt",
+      "min": 80
+    },
+    {
+      "keywords": "rx 580",
+      "min": 40
+    },
+    {
+      "keywords": "arc b580",
+      "min": 150
+    },
+    {
+      "keywords": "arc a770",
+      "min": 140
+    },
+    {
+      "keywords": "arc a750",
+      "min": 100
     },
     {
       "keywords": "gaming pc",
@@ -450,6 +2022,206 @@
     {
       "keywords": "nintendo switch",
       "min": 100
+    },
+    {
+      "keywords": "ps4 pro",
+      "min": 110
+    },
+    {
+      "keywords": "playstation 4 pro",
+      "min": 110
+    },
+    {
+      "keywords": "ps4",
+      "min": 70
+    },
+    {
+      "keywords": "playstation 4",
+      "min": 70
+    },
+    {
+      "keywords": "xbox one x",
+      "min": 100
+    },
+    {
+      "keywords": "xbox one s",
+      "min": 60
+    },
+    {
+      "keywords": "xbox one",
+      "min": 50
+    },
+    {
+      "keywords": "ps3",
+      "min": 50
+    },
+    {
+      "keywords": "playstation 3",
+      "min": 50
+    },
+    {
+      "keywords": "ps2",
+      "min": 40
+    },
+    {
+      "keywords": "playstation 2",
+      "min": 40
+    },
+    {
+      "keywords": "xbox 360",
+      "min": 35
+    },
+    {
+      "keywords": "wii u",
+      "min": 60
+    },
+    {
+      "keywords": "wii",
+      "min": 30
+    },
+    {
+      "keywords": "gamecube",
+      "min": 70
+    },
+    {
+      "keywords": "nintendo 64",
+      "min": 60
+    },
+    {
+      "keywords": "n64",
+      "min": 60
+    },
+    {
+      "keywords": "snes classic",
+      "min": 40
+    },
+    {
+      "keywords": "nes classic",
+      "min": 35
+    },
+    {
+      "keywords": "super nintendo",
+      "min": 60
+    },
+    {
+      "keywords": "snes",
+      "min": 60
+    },
+    {
+      "keywords": "nes",
+      "min": 45
+    },
+    {
+      "keywords": "sega genesis",
+      "min": 40
+    },
+    {
+      "keywords": "dreamcast",
+      "min": 70
+    },
+    {
+      "keywords": "ps vita",
+      "min": 110
+    },
+    {
+      "keywords": "playstation vita",
+      "min": 110
+    },
+    {
+      "keywords": "psp",
+      "min": 50
+    },
+    {
+      "keywords": "new nintendo 3ds xl",
+      "min": 140
+    },
+    {
+      "keywords": "new 3ds xl",
+      "min": 140
+    },
+    {
+      "keywords": "nintendo 3ds xl",
+      "min": 100
+    },
+    {
+      "keywords": "3ds xl",
+      "min": 100
+    },
+    {
+      "keywords": "nintendo 3ds",
+      "min": 70
+    },
+    {
+      "keywords": "3ds",
+      "min": 70
+    },
+    {
+      "keywords": "2ds xl",
+      "min": 80
+    },
+    {
+      "keywords": "2ds",
+      "min": 50
+    },
+    {
+      "keywords": "ds lite",
+      "min": 30
+    },
+    {
+      "keywords": "game boy advance sp",
+      "min": 60
+    },
+    {
+      "keywords": "game boy advance",
+      "min": 40
+    },
+    {
+      "keywords": "game boy color",
+      "min": 45
+    },
+    {
+      "keywords": "game boy",
+      "min": 40
+    },
+    {
+      "keywords": "gameboy advance sp",
+      "min": 60
+    },
+    {
+      "keywords": "gameboy advance",
+      "min": 40
+    },
+    {
+      "keywords": "gameboy color",
+      "min": 45
+    },
+    {
+      "keywords": "gameboy",
+      "min": 40
+    },
+    {
+      "keywords": "analogue pocket",
+      "min": 150
+    },
+    {
+      "keywords": "retroid pocket 5",
+      "min": 120
+    },
+    {
+      "keywords": "retroid pocket",
+      "min": 70
+    },
+    {
+      "keywords": "miyoo mini plus",
+      "min": 40
+    },
+    {
+      "keywords": "miyoo mini",
+      "min": 30
+    },
+    {
+      "keywords": "playdate",
+      "min": 120
     },
     {
       "keywords": "meta quest 3s",
@@ -512,20 +2284,228 @@
       "min": 100
     },
     {
+      "keywords": "wh-1000xm6",
+      "min": 220
+    },
+    {
+      "keywords": "wh1000xm6",
+      "min": 220
+    },
+    {
+      "keywords": "sony xm6",
+      "min": 220
+    },
+    {
+      "keywords": "wh-1000xm5",
+      "min": 150
+    },
+    {
+      "keywords": "wh1000xm5",
+      "min": 150
+    },
+    {
+      "keywords": "sony xm5",
+      "min": 150
+    },
+    {
+      "keywords": "wh-1000xm4",
+      "min": 100
+    },
+    {
+      "keywords": "wh1000xm4",
+      "min": 100
+    },
+    {
+      "keywords": "sony xm4",
+      "min": 100
+    },
+    {
+      "keywords": "wh-1000xm3",
+      "min": 55
+    },
+    {
+      "keywords": "wh1000xm3",
+      "min": 55
+    },
+    {
+      "keywords": "wf-1000xm5",
+      "min": 100
+    },
+    {
+      "keywords": "wf1000xm5",
+      "min": 100
+    },
+    {
+      "keywords": "wf-1000xm4",
+      "min": 55
+    },
+    {
+      "keywords": "wf1000xm4",
+      "min": 55
+    },
+    {
+      "keywords": "sony ult wear",
+      "min": 80
+    },
+    {
+      "keywords": "bose quietcomfort ultra earbuds",
+      "min": 120
+    },
+    {
+      "keywords": "bose qc ultra earbuds",
+      "min": 120
+    },
+    {
       "keywords": "bose quietcomfort ultra",
       "min": 180
     },
     {
-      "keywords": "sony wh-1000xm6",
-      "min": 220
+      "keywords": "bose qc ultra",
+      "min": 180
     },
     {
-      "keywords": "sony wh-1000xm5",
+      "keywords": "bose quietcomfort earbuds",
+      "min": 70
+    },
+    {
+      "keywords": "bose quietcomfort 45",
+      "min": 80
+    },
+    {
+      "keywords": "bose qc45",
+      "min": 80
+    },
+    {
+      "keywords": "bose quietcomfort 35",
+      "min": 50
+    },
+    {
+      "keywords": "bose qc35",
+      "min": 50
+    },
+    {
+      "keywords": "bose 700",
+      "min": 100
+    },
+    {
+      "keywords": "bose quietcomfort",
+      "min": 90
+    },
+    {
+      "keywords": "beats studio pro",
+      "min": 100
+    },
+    {
+      "keywords": "beats solo 4",
+      "min": 60
+    },
+    {
+      "keywords": "beats solo 3",
+      "min": 40
+    },
+    {
+      "keywords": "beats fit pro",
+      "min": 60
+    },
+    {
+      "keywords": "beats studio buds",
+      "min": 45
+    },
+    {
+      "keywords": "powerbeats pro 2",
+      "min": 120
+    },
+    {
+      "keywords": "powerbeats pro",
+      "min": 60
+    },
+    {
+      "keywords": "sennheiser momentum true wireless 4",
+      "min": 120
+    },
+    {
+      "keywords": "sennheiser momentum 4",
+      "min": 120
+    },
+    {
+      "keywords": "sennheiser hd 800",
+      "min": 700
+    },
+    {
+      "keywords": "sennheiser hd 660",
+      "min": 250
+    },
+    {
+      "keywords": "sennheiser hd 650",
+      "min": 200
+    },
+    {
+      "keywords": "sennheiser hd 600",
+      "min": 180
+    },
+    {
+      "keywords": "galaxy buds3 pro",
+      "min": 90
+    },
+    {
+      "keywords": "galaxy buds 3 pro",
+      "min": 90
+    },
+    {
+      "keywords": "galaxy buds3",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy buds 3",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy buds2 pro",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy buds 2 pro",
+      "min": 60
+    },
+    {
+      "keywords": "pixel buds pro 2",
+      "min": 90
+    },
+    {
+      "keywords": "pixel buds pro",
+      "min": 50
+    },
+    {
+      "keywords": "sonos ace",
+      "min": 200
+    },
+    {
+      "keywords": "focal clear",
+      "min": 500
+    },
+    {
+      "keywords": "focal utopia",
+      "min": 1500
+    },
+    {
+      "keywords": "audeze lcd-x",
+      "min": 600
+    },
+    {
+      "keywords": "audeze maxwell",
+      "min": 180
+    },
+    {
+      "keywords": "arctis nova pro",
       "min": 150
     },
     {
-      "keywords": "sony wh-1000xm4",
-      "min": 100
+      "keywords": "ath-m50x",
+      "min": 60
+    },
+    {
+      "keywords": "shure se846",
+      "min": 250
     },
     {
       "keywords": "apple watch ultra 3",
@@ -554,6 +2534,106 @@
     {
       "keywords": "apple watch",
       "min": 80
+    },
+    {
+      "keywords": "galaxy watch ultra 2",
+      "min": 300
+    },
+    {
+      "keywords": "galaxy watch ultra",
+      "min": 200
+    },
+    {
+      "keywords": "galaxy watch 8 classic",
+      "min": 220
+    },
+    {
+      "keywords": "galaxy watch8 classic",
+      "min": 220
+    },
+    {
+      "keywords": "galaxy watch 8",
+      "min": 160
+    },
+    {
+      "keywords": "galaxy watch8",
+      "min": 160
+    },
+    {
+      "keywords": "galaxy watch 7",
+      "min": 110
+    },
+    {
+      "keywords": "galaxy watch7",
+      "min": 110
+    },
+    {
+      "keywords": "galaxy watch 6 classic",
+      "min": 110
+    },
+    {
+      "keywords": "galaxy watch6 classic",
+      "min": 110
+    },
+    {
+      "keywords": "galaxy watch 6",
+      "min": 80
+    },
+    {
+      "keywords": "galaxy watch6",
+      "min": 80
+    },
+    {
+      "keywords": "galaxy watch 5 pro",
+      "min": 100
+    },
+    {
+      "keywords": "galaxy watch5 pro",
+      "min": 100
+    },
+    {
+      "keywords": "galaxy watch 5",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy watch5",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy watch 4 classic",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy watch4 classic",
+      "min": 60
+    },
+    {
+      "keywords": "galaxy watch 4",
+      "min": 45
+    },
+    {
+      "keywords": "galaxy watch4",
+      "min": 45
+    },
+    {
+      "keywords": "galaxy watch",
+      "min": 40
+    },
+    {
+      "keywords": "pixel watch 4",
+      "min": 200
+    },
+    {
+      "keywords": "pixel watch 3",
+      "min": 150
+    },
+    {
+      "keywords": "pixel watch 2",
+      "min": 90
+    },
+    {
+      "keywords": "pixel watch",
+      "min": 60
     },
     {
       "keywords": "canon eos r5",
@@ -652,6 +2732,66 @@
       "min": 120
     },
     {
+      "keywords": "milwaukee m18 12ah",
+      "min": 120
+    },
+    {
+      "keywords": "milwaukee m18 9ah",
+      "min": 90
+    },
+    {
+      "keywords": "milwaukee m18 8ah",
+      "min": 90
+    },
+    {
+      "keywords": "milwaukee m18 6ah",
+      "min": 70
+    },
+    {
+      "keywords": "milwaukee m18 5ah",
+      "min": 50
+    },
+    {
+      "keywords": "milwaukee m18 4ah",
+      "min": 40
+    },
+    {
+      "keywords": "milwaukee m18 3ah",
+      "min": 35
+    },
+    {
+      "keywords": "milwaukee m18 2ah",
+      "min": 25
+    },
+    {
+      "keywords": "milwaukee m18 forge",
+      "min": 100
+    },
+    {
+      "keywords": "milwaukee m18 battery",
+      "min": 25
+    },
+    {
+      "keywords": "milwaukee m12 6ah",
+      "min": 50
+    },
+    {
+      "keywords": "milwaukee m12 4ah",
+      "min": 35
+    },
+    {
+      "keywords": "milwaukee m12 3ah",
+      "min": 25
+    },
+    {
+      "keywords": "milwaukee m12 2ah",
+      "min": 20
+    },
+    {
+      "keywords": "milwaukee m12 battery",
+      "min": 18
+    },
+    {
       "keywords": "milwaukee battery",
       "min": 30
     },
@@ -712,6 +2852,98 @@
       "min": 300
     },
     {
+      "keywords": "dewalt flexvolt 15ah",
+      "min": 130
+    },
+    {
+      "keywords": "dewalt flexvolt 12ah",
+      "min": 100
+    },
+    {
+      "keywords": "dewalt flexvolt 9ah",
+      "min": 80
+    },
+    {
+      "keywords": "dewalt flexvolt 6ah",
+      "min": 60
+    },
+    {
+      "keywords": "dewalt flexvolt 3ah",
+      "min": 40
+    },
+    {
+      "keywords": "dewalt 20v 10ah",
+      "min": 90
+    },
+    {
+      "keywords": "dewalt 20v 8ah",
+      "min": 70
+    },
+    {
+      "keywords": "dewalt 20v 6ah",
+      "min": 55
+    },
+    {
+      "keywords": "dewalt 20v 5ah",
+      "min": 45
+    },
+    {
+      "keywords": "dewalt 20v 4ah",
+      "min": 35
+    },
+    {
+      "keywords": "dewalt 20v 3ah",
+      "min": 25
+    },
+    {
+      "keywords": "dewalt 20v 2ah",
+      "min": 20
+    },
+    {
+      "keywords": "dewalt powerstack",
+      "min": 50
+    },
+    {
+      "keywords": "dewalt dcb615",
+      "min": 130
+    },
+    {
+      "keywords": "dewalt dcb612",
+      "min": 100
+    },
+    {
+      "keywords": "dewalt dcb609",
+      "min": 80
+    },
+    {
+      "keywords": "dewalt dcb606",
+      "min": 60
+    },
+    {
+      "keywords": "dewalt dcb210",
+      "min": 90
+    },
+    {
+      "keywords": "dewalt dcb208",
+      "min": 70
+    },
+    {
+      "keywords": "dewalt dcb206",
+      "min": 55
+    },
+    {
+      "keywords": "dewalt dcb205",
+      "min": 45
+    },
+    {
+      "keywords": "dewalt dcb204",
+      "min": 35
+    },
+    {
+      "keywords": "dewalt dcb203",
+      "min": 20
+    },
+    {
       "keywords": "dewalt battery",
       "min": 25
     },
@@ -752,6 +2984,74 @@
       "min": 60
     },
     {
+      "keywords": "makita 40v 8ah",
+      "min": 130
+    },
+    {
+      "keywords": "makita 40v 5ah",
+      "min": 100
+    },
+    {
+      "keywords": "makita 40v 4ah",
+      "min": 80
+    },
+    {
+      "keywords": "makita 40v 2.5ah",
+      "min": 60
+    },
+    {
+      "keywords": "makita 18v 6ah",
+      "min": 45
+    },
+    {
+      "keywords": "makita 18v 5ah",
+      "min": 40
+    },
+    {
+      "keywords": "makita 18v 4ah",
+      "min": 30
+    },
+    {
+      "keywords": "makita 18v 3ah",
+      "min": 25
+    },
+    {
+      "keywords": "makita 18v 2ah",
+      "min": 18
+    },
+    {
+      "keywords": "makita bl4080f",
+      "min": 130
+    },
+    {
+      "keywords": "makita bl4050f",
+      "min": 100
+    },
+    {
+      "keywords": "makita bl4040",
+      "min": 80
+    },
+    {
+      "keywords": "makita bl4025",
+      "min": 60
+    },
+    {
+      "keywords": "makita bl1860b",
+      "min": 45
+    },
+    {
+      "keywords": "makita bl1850b",
+      "min": 40
+    },
+    {
+      "keywords": "makita bl1840b",
+      "min": 30
+    },
+    {
+      "keywords": "makita bl1830b",
+      "min": 25
+    },
+    {
       "keywords": "makita battery",
       "min": 25
     },
@@ -788,8 +3088,132 @@
       "min": 200
     },
     {
+      "keywords": "ego battery 12ah",
+      "min": 250
+    },
+    {
+      "keywords": "ego battery 10ah",
+      "min": 200
+    },
+    {
+      "keywords": "ego battery 7.5ah",
+      "min": 150
+    },
+    {
+      "keywords": "ego battery 6ah",
+      "min": 120
+    },
+    {
+      "keywords": "ego battery 5ah",
+      "min": 100
+    },
+    {
+      "keywords": "ego battery 4ah",
+      "min": 80
+    },
+    {
+      "keywords": "ego battery 3ah",
+      "min": 60
+    },
+    {
+      "keywords": "ego battery 2.5ah",
+      "min": 50
+    },
+    {
+      "keywords": "ego ba6720t",
+      "min": 250
+    },
+    {
+      "keywords": "ego ba5600t",
+      "min": 200
+    },
+    {
+      "keywords": "ego ba4200t",
+      "min": 150
+    },
+    {
+      "keywords": "ego ba3360t",
+      "min": 120
+    },
+    {
+      "keywords": "ego ba2800t",
+      "min": 100
+    },
+    {
+      "keywords": "ego ba2240t",
+      "min": 80
+    },
+    {
+      "keywords": "ego ba1400t",
+      "min": 50
+    },
+    {
       "keywords": "ego battery",
       "min": 40
+    },
+    {
+      "keywords": "ryobi 40v 8ah",
+      "min": 90
+    },
+    {
+      "keywords": "ryobi 40v 6ah",
+      "min": 70
+    },
+    {
+      "keywords": "ryobi 40v 4ah",
+      "min": 50
+    },
+    {
+      "keywords": "ryobi 40v 2ah",
+      "min": 30
+    },
+    {
+      "keywords": "ryobi 40v battery",
+      "min": 30
+    },
+    {
+      "keywords": "ryobi 18v 8ah",
+      "min": 60
+    },
+    {
+      "keywords": "ryobi 18v 6ah",
+      "min": 45
+    },
+    {
+      "keywords": "ryobi 18v 4ah",
+      "min": 30
+    },
+    {
+      "keywords": "ryobi 18v 2ah",
+      "min": 15
+    },
+    {
+      "keywords": "ryobi 18v battery",
+      "min": 15
+    },
+    {
+      "keywords": "greenworks 80v 5ah",
+      "min": 80
+    },
+    {
+      "keywords": "greenworks 80v 4ah",
+      "min": 60
+    },
+    {
+      "keywords": "greenworks 80v 2ah",
+      "min": 40
+    },
+    {
+      "keywords": "greenworks 60v 5ah",
+      "min": 70
+    },
+    {
+      "keywords": "greenworks 60v 4ah",
+      "min": 55
+    },
+    {
+      "keywords": "greenworks 40v 4ah",
+      "min": 35
     },
     {
       "keywords": "ego mower",
@@ -840,6 +3264,30 @@
       "min": 70
     },
     {
+      "keywords": "dyson battery",
+      "min": 25
+    },
+    {
+      "keywords": "dyson 360 vis nav",
+      "min": 400
+    },
+    {
+      "keywords": "dyson gen5detect",
+      "min": 300
+    },
+    {
+      "keywords": "dyson gen5",
+      "min": 300
+    },
+    {
+      "keywords": "dyson v15s",
+      "min": 250
+    },
+    {
+      "keywords": "dyson outsize",
+      "min": 250
+    },
+    {
       "keywords": "dyson v15",
       "min": 200
     },
@@ -856,8 +3304,148 @@
       "min": 90
     },
     {
+      "keywords": "dyson v7",
+      "min": 50
+    },
+    {
+      "keywords": "dyson ball animal",
+      "min": 80
+    },
+    {
+      "keywords": "dyson big ball",
+      "min": 80
+    },
+    {
       "keywords": "dyson v8",
       "min": 70
+    },
+    {
+      "keywords": "roomba combo j9",
+      "min": 350
+    },
+    {
+      "keywords": "roomba combo j7",
+      "min": 220
+    },
+    {
+      "keywords": "roomba j9",
+      "min": 250
+    },
+    {
+      "keywords": "roomba j7",
+      "min": 150
+    },
+    {
+      "keywords": "roomba s9",
+      "min": 200
+    },
+    {
+      "keywords": "roomba i7",
+      "min": 110
+    },
+    {
+      "keywords": "roomba i3",
+      "min": 80
+    },
+    {
+      "keywords": "roomba combo 10 max",
+      "min": 400
+    },
+    {
+      "keywords": "roborock saros 10",
+      "min": 600
+    },
+    {
+      "keywords": "roborock s8 maxv ultra",
+      "min": 550
+    },
+    {
+      "keywords": "roborock s8 pro ultra",
+      "min": 450
+    },
+    {
+      "keywords": "roborock qrevo",
+      "min": 300
+    },
+    {
+      "keywords": "roborock q revo",
+      "min": 300
+    },
+    {
+      "keywords": "roborock s8",
+      "min": 250
+    },
+    {
+      "keywords": "roborock s7",
+      "min": 160
+    },
+    {
+      "keywords": "roborock q5",
+      "min": 120
+    },
+    {
+      "keywords": "eufy x10 pro omni",
+      "min": 300
+    },
+    {
+      "keywords": "deebot x2 omni",
+      "min": 400
+    },
+    {
+      "keywords": "deebot t30 omni",
+      "min": 300
+    },
+    {
+      "keywords": "deebot x1 omni",
+      "min": 250
+    },
+    {
+      "keywords": "shark powerdetect",
+      "min": 150
+    },
+    {
+      "keywords": "shark stratos",
+      "min": 120
+    },
+    {
+      "keywords": "shark vertex",
+      "min": 90
+    },
+    {
+      "keywords": "shark ai ultra",
+      "min": 150
+    },
+    {
+      "keywords": "shark matrix",
+      "min": 150
+    },
+    {
+      "keywords": "shark navigator",
+      "min": 50
+    },
+    {
+      "keywords": "bissell crosswave",
+      "min": 80
+    },
+    {
+      "keywords": "bissell little green",
+      "min": 40
+    },
+    {
+      "keywords": "tineco floor one s7",
+      "min": 200
+    },
+    {
+      "keywords": "tineco floor one s5",
+      "min": 120
+    },
+    {
+      "keywords": "miele complete c3",
+      "min": 250
+    },
+    {
+      "keywords": "kirby avalir",
+      "min": 250
     },
     {
       "keywords": "dyson airwrap",
@@ -992,8 +3580,1020 @@
       "min": 150
     },
     {
+      "keywords": "lg g5 55in",
+      "min": 1000
+    },
+    {
+      "keywords": "lg g5 65in",
+      "min": 1400
+    },
+    {
+      "keywords": "lg g5 77in",
+      "min": 2000
+    },
+    {
+      "keywords": "lg g5 83in",
+      "min": 2600
+    },
+    {
+      "keywords": "lg g5",
+      "min": 1000
+    },
+    {
+      "keywords": "lg g4 55in",
+      "min": 800
+    },
+    {
+      "keywords": "lg g4 65in",
+      "min": 1100
+    },
+    {
+      "keywords": "lg g4 77in",
+      "min": 1600
+    },
+    {
+      "keywords": "lg g4 83in",
+      "min": 2100
+    },
+    {
+      "keywords": "lg g4",
+      "min": 800
+    },
+    {
+      "keywords": "lg g3 55in",
+      "min": 650
+    },
+    {
+      "keywords": "lg g3 65in",
+      "min": 900
+    },
+    {
+      "keywords": "lg g3 77in",
+      "min": 1300
+    },
+    {
+      "keywords": "lg g3 83in",
+      "min": 1700
+    },
+    {
+      "keywords": "lg g3",
+      "min": 650
+    },
+    {
+      "keywords": "lg c5 42in",
+      "min": 450
+    },
+    {
+      "keywords": "lg c5 48in",
+      "min": 500
+    },
+    {
+      "keywords": "lg c5 55in",
+      "min": 650
+    },
+    {
+      "keywords": "lg c5 65in",
+      "min": 900
+    },
+    {
+      "keywords": "lg c5 77in",
+      "min": 1300
+    },
+    {
+      "keywords": "lg c5 83in",
+      "min": 1800
+    },
+    {
+      "keywords": "lg c5",
+      "min": 450
+    },
+    {
+      "keywords": "lg c4 42in",
+      "min": 400
+    },
+    {
+      "keywords": "lg c4 48in",
+      "min": 450
+    },
+    {
+      "keywords": "lg c4 55in",
+      "min": 550
+    },
+    {
+      "keywords": "lg c4 65in",
+      "min": 750
+    },
+    {
+      "keywords": "lg c4 77in",
+      "min": 1100
+    },
+    {
+      "keywords": "lg c4 83in",
+      "min": 1500
+    },
+    {
+      "keywords": "lg c4",
+      "min": 400
+    },
+    {
+      "keywords": "lg c3 42in",
+      "min": 350
+    },
+    {
+      "keywords": "lg c3 48in",
+      "min": 380
+    },
+    {
+      "keywords": "lg c3 55in",
+      "min": 450
+    },
+    {
+      "keywords": "lg c3 65in",
+      "min": 600
+    },
+    {
+      "keywords": "lg c3 77in",
+      "min": 900
+    },
+    {
+      "keywords": "lg c3 83in",
+      "min": 1200
+    },
+    {
+      "keywords": "lg c3",
+      "min": 350
+    },
+    {
+      "keywords": "lg c2 42in",
+      "min": 300
+    },
+    {
+      "keywords": "lg c2 48in",
+      "min": 330
+    },
+    {
+      "keywords": "lg c2 55in",
+      "min": 380
+    },
+    {
+      "keywords": "lg c2 65in",
+      "min": 500
+    },
+    {
+      "keywords": "lg c2 77in",
+      "min": 750
+    },
+    {
+      "keywords": "lg c2 83in",
+      "min": 1000
+    },
+    {
+      "keywords": "lg c2",
+      "min": 300
+    },
+    {
+      "keywords": "lg c1 48in",
+      "min": 280
+    },
+    {
+      "keywords": "lg c1 55in",
+      "min": 330
+    },
+    {
+      "keywords": "lg c1 65in",
+      "min": 430
+    },
+    {
+      "keywords": "lg c1 77in",
+      "min": 650
+    },
+    {
+      "keywords": "lg c1",
+      "min": 280
+    },
+    {
+      "keywords": "lg cx 48in",
+      "min": 250
+    },
+    {
+      "keywords": "lg cx 55in",
+      "min": 300
+    },
+    {
+      "keywords": "lg cx 65in",
+      "min": 400
+    },
+    {
+      "keywords": "lg cx 77in",
+      "min": 600
+    },
+    {
+      "keywords": "lg cx",
+      "min": 250
+    },
+    {
+      "keywords": "lg b4 55in",
+      "min": 400
+    },
+    {
+      "keywords": "lg b4 65in",
+      "min": 550
+    },
+    {
+      "keywords": "lg b4 77in",
+      "min": 800
+    },
+    {
+      "keywords": "lg b4",
+      "min": 350
+    },
+    {
+      "keywords": "samsung s95d 55in",
+      "min": 900
+    },
+    {
+      "keywords": "samsung s95d 65in",
+      "min": 1200
+    },
+    {
+      "keywords": "samsung s95d 77in",
+      "min": 1800
+    },
+    {
+      "keywords": "samsung s95d",
+      "min": 900
+    },
+    {
+      "keywords": "samsung s95c 55in",
+      "min": 700
+    },
+    {
+      "keywords": "samsung s95c 65in",
+      "min": 900
+    },
+    {
+      "keywords": "samsung s95c 77in",
+      "min": 1400
+    },
+    {
+      "keywords": "samsung s95c",
+      "min": 700
+    },
+    {
+      "keywords": "samsung s90d 42in",
+      "min": 400
+    },
+    {
+      "keywords": "samsung s90d 48in",
+      "min": 450
+    },
+    {
+      "keywords": "samsung s90d 55in",
+      "min": 550
+    },
+    {
+      "keywords": "samsung s90d 65in",
+      "min": 750
+    },
+    {
+      "keywords": "samsung s90d 77in",
+      "min": 1100
+    },
+    {
+      "keywords": "samsung s90d 83in",
+      "min": 1500
+    },
+    {
+      "keywords": "samsung s90d",
+      "min": 400
+    },
+    {
+      "keywords": "samsung s90c 55in",
+      "min": 450
+    },
+    {
+      "keywords": "samsung s90c 65in",
+      "min": 600
+    },
+    {
+      "keywords": "samsung s90c 77in",
+      "min": 900
+    },
+    {
+      "keywords": "samsung s90c 83in",
+      "min": 1200
+    },
+    {
+      "keywords": "samsung s90c",
+      "min": 450
+    },
+    {
+      "keywords": "samsung qn90d 50in",
+      "min": 400
+    },
+    {
+      "keywords": "samsung qn90d 55in",
+      "min": 450
+    },
+    {
+      "keywords": "samsung qn90d 65in",
+      "min": 600
+    },
+    {
+      "keywords": "samsung qn90d 75in",
+      "min": 800
+    },
+    {
+      "keywords": "samsung qn90d 85in",
+      "min": 1100
+    },
+    {
+      "keywords": "samsung qn90d",
+      "min": 400
+    },
+    {
+      "keywords": "samsung qn90c 55in",
+      "min": 380
+    },
+    {
+      "keywords": "samsung qn90c 65in",
+      "min": 500
+    },
+    {
+      "keywords": "samsung qn90c 75in",
+      "min": 650
+    },
+    {
+      "keywords": "samsung qn90c 85in",
+      "min": 900
+    },
+    {
+      "keywords": "samsung qn90c",
+      "min": 380
+    },
+    {
+      "keywords": "samsung the frame 43in",
+      "min": 250
+    },
+    {
+      "keywords": "samsung the frame 50in",
+      "min": 300
+    },
+    {
+      "keywords": "samsung the frame 55in",
+      "min": 350
+    },
+    {
+      "keywords": "samsung the frame 65in",
+      "min": 450
+    },
+    {
+      "keywords": "samsung the frame 75in",
+      "min": 650
+    },
+    {
+      "keywords": "samsung the frame 85in",
+      "min": 900
+    },
+    {
+      "keywords": "samsung the frame",
+      "min": 250
+    },
+    {
+      "keywords": "sony a95l 55in",
+      "min": 1100
+    },
+    {
+      "keywords": "sony a95l 65in",
+      "min": 1500
+    },
+    {
+      "keywords": "sony a95l 77in",
+      "min": 2000
+    },
+    {
+      "keywords": "sony a95l",
+      "min": 1100
+    },
+    {
+      "keywords": "sony bravia 9 65in",
+      "min": 1300
+    },
+    {
+      "keywords": "sony bravia 9 75in",
+      "min": 1500
+    },
+    {
+      "keywords": "sony bravia 9 85in",
+      "min": 1800
+    },
+    {
+      "keywords": "sony bravia 9",
+      "min": 1300
+    },
+    {
+      "keywords": "sony bravia 8 55in",
+      "min": 700
+    },
+    {
+      "keywords": "sony bravia 8 65in",
+      "min": 900
+    },
+    {
+      "keywords": "sony bravia 8 77in",
+      "min": 1300
+    },
+    {
+      "keywords": "sony bravia 8",
+      "min": 700
+    },
+    {
+      "keywords": "sony a80l 55in",
+      "min": 500
+    },
+    {
+      "keywords": "sony a80l 65in",
+      "min": 650
+    },
+    {
+      "keywords": "sony a80l 77in",
+      "min": 1000
+    },
+    {
+      "keywords": "sony a80l 83in",
+      "min": 1200
+    },
+    {
+      "keywords": "sony a80l",
+      "min": 500
+    },
+    {
+      "keywords": "sony a80j 55in",
+      "min": 380
+    },
+    {
+      "keywords": "sony a80j 65in",
+      "min": 480
+    },
+    {
+      "keywords": "sony a80j 77in",
+      "min": 750
+    },
+    {
+      "keywords": "sony a80j",
+      "min": 380
+    },
+    {
+      "keywords": "sony x90l 55in",
+      "min": 350
+    },
+    {
+      "keywords": "sony x90l 65in",
+      "min": 450
+    },
+    {
+      "keywords": "sony x90l 75in",
+      "min": 600
+    },
+    {
+      "keywords": "sony x90l 85in",
+      "min": 800
+    },
+    {
+      "keywords": "sony x90l",
+      "min": 350
+    },
+    {
+      "keywords": "sony x90k 55in",
+      "min": 280
+    },
+    {
+      "keywords": "sony x90k 65in",
+      "min": 380
+    },
+    {
+      "keywords": "sony x90k 75in",
+      "min": 500
+    },
+    {
+      "keywords": "sony x90k 85in",
+      "min": 650
+    },
+    {
+      "keywords": "sony x90k",
+      "min": 280
+    },
+    {
+      "keywords": "tcl qm8 65in",
+      "min": 450
+    },
+    {
+      "keywords": "tcl qm8 75in",
+      "min": 600
+    },
+    {
+      "keywords": "tcl qm8 85in",
+      "min": 800
+    },
+    {
+      "keywords": "tcl qm8 98in",
+      "min": 1500
+    },
+    {
+      "keywords": "tcl qm8",
+      "min": 450
+    },
+    {
+      "keywords": "tcl qm7 55in",
+      "min": 250
+    },
+    {
+      "keywords": "tcl qm7 65in",
+      "min": 300
+    },
+    {
+      "keywords": "tcl qm7 75in",
+      "min": 400
+    },
+    {
+      "keywords": "tcl qm7 85in",
+      "min": 550
+    },
+    {
+      "keywords": "tcl qm7",
+      "min": 250
+    },
+    {
+      "keywords": "hisense u8 55in",
+      "min": 300
+    },
+    {
+      "keywords": "hisense u8 65in",
+      "min": 400
+    },
+    {
+      "keywords": "hisense u8 75in",
+      "min": 550
+    },
+    {
+      "keywords": "hisense u8 85in",
+      "min": 750
+    },
+    {
+      "keywords": "hisense u8 100in",
+      "min": 1400
+    },
+    {
+      "keywords": "hisense u8",
+      "min": 300
+    },
+    {
+      "keywords": "hisense u7 55in",
+      "min": 220
+    },
+    {
+      "keywords": "hisense u7 65in",
+      "min": 300
+    },
+    {
+      "keywords": "hisense u7 75in",
+      "min": 400
+    },
+    {
+      "keywords": "hisense u7 85in",
+      "min": 550
+    },
+    {
+      "keywords": "hisense u7",
+      "min": 220
+    },
+    {
       "keywords": "oled tv",
       "min": 300
+    },
+    {
+      "keywords": "rolex day-date",
+      "min": 18000
+    },
+    {
+      "keywords": "rolex day date",
+      "min": 18000
+    },
+    {
+      "keywords": "rolex sky-dweller",
+      "min": 12000
+    },
+    {
+      "keywords": "rolex sky dweller",
+      "min": 12000
+    },
+    {
+      "keywords": "rolex sea-dweller",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex sea dweller",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex yacht-master",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex yacht master",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex gmt-master",
+      "min": 8000
+    },
+    {
+      "keywords": "rolex explorer",
+      "min": 5000
+    },
+    {
+      "keywords": "rolex milgauss",
+      "min": 5500
+    },
+    {
+      "keywords": "rolex air-king",
+      "min": 4500
+    },
+    {
+      "keywords": "rolex air king",
+      "min": 4500
+    },
+    {
+      "keywords": "rolex oyster perpetual",
+      "min": 4500
+    },
+    {
+      "keywords": "audemars piguet royal oak offshore",
+      "min": 15000
+    },
+    {
+      "keywords": "audemars piguet royal oak",
+      "min": 20000
+    },
+    {
+      "keywords": "ap royal oak",
+      "min": 20000
+    },
+    {
+      "keywords": "patek philippe nautilus",
+      "min": 40000
+    },
+    {
+      "keywords": "patek philippe aquanaut",
+      "min": 30000
+    },
+    {
+      "keywords": "patek philippe calatrava",
+      "min": 12000
+    },
+    {
+      "keywords": "omega moonwatch",
+      "min": 3000
+    },
+    {
+      "keywords": "omega aqua terra",
+      "min": 2500
+    },
+    {
+      "keywords": "omega constellation",
+      "min": 900
+    },
+    {
+      "keywords": "tudor black bay",
+      "min": 1800
+    },
+    {
+      "keywords": "tudor pelagos",
+      "min": 2500
+    },
+    {
+      "keywords": "tag heuer monaco",
+      "min": 2500
+    },
+    {
+      "keywords": "tag heuer carrera",
+      "min": 1000
+    },
+    {
+      "keywords": "tag heuer aquaracer",
+      "min": 700
+    },
+    {
+      "keywords": "breitling navitimer",
+      "min": 2500
+    },
+    {
+      "keywords": "breitling chronomat",
+      "min": 2500
+    },
+    {
+      "keywords": "breitling superocean",
+      "min": 1500
+    },
+    {
+      "keywords": "cartier santos",
+      "min": 3500
+    },
+    {
+      "keywords": "cartier ballon bleu",
+      "min": 2500
+    },
+    {
+      "keywords": "cartier panthere",
+      "min": 2500
+    },
+    {
+      "keywords": "cartier tank",
+      "min": 1800
+    },
+    {
+      "keywords": "cartier juste un clou",
+      "min": 2500
+    },
+    {
+      "keywords": "van cleef alhambra",
+      "min": 1500
+    },
+    {
+      "keywords": "vca alhambra",
+      "min": 1500
+    },
+    {
+      "keywords": "louis vuitton capucines",
+      "min": 2500
+    },
+    {
+      "keywords": "louis vuitton onthego",
+      "min": 1200
+    },
+    {
+      "keywords": "louis vuitton pochette metis",
+      "min": 1000
+    },
+    {
+      "keywords": "louis vuitton multi pochette",
+      "min": 800
+    },
+    {
+      "keywords": "louis vuitton palm springs",
+      "min": 700
+    },
+    {
+      "keywords": "louis vuitton keepall",
+      "min": 500
+    },
+    {
+      "keywords": "louis vuitton alma",
+      "min": 400
+    },
+    {
+      "keywords": "louis vuitton noe",
+      "min": 400
+    },
+    {
+      "keywords": "louis vuitton graceful",
+      "min": 400
+    },
+    {
+      "keywords": "louis vuitton favorite",
+      "min": 300
+    },
+    {
+      "keywords": "lv onthego",
+      "min": 1200
+    },
+    {
+      "keywords": "lv pochette metis",
+      "min": 1000
+    },
+    {
+      "keywords": "lv multi pochette",
+      "min": 800
+    },
+    {
+      "keywords": "lv neverfull",
+      "min": 500
+    },
+    {
+      "keywords": "lv keepall",
+      "min": 500
+    },
+    {
+      "keywords": "lv speedy",
+      "min": 450
+    },
+    {
+      "keywords": "lv alma",
+      "min": 400
+    },
+    {
+      "keywords": "chanel 19",
+      "min": 2200
+    },
+    {
+      "keywords": "chanel boy",
+      "min": 2000
+    },
+    {
+      "keywords": "chanel gabrielle",
+      "min": 1500
+    },
+    {
+      "keywords": "chanel deauville",
+      "min": 1200
+    },
+    {
+      "keywords": "chanel woc",
+      "min": 1200
+    },
+    {
+      "keywords": "hermes kelly",
+      "min": 6000
+    },
+    {
+      "keywords": "hermes constance",
+      "min": 4000
+    },
+    {
+      "keywords": "hermes picotin",
+      "min": 1500
+    },
+    {
+      "keywords": "hermes evelyne",
+      "min": 1300
+    },
+    {
+      "keywords": "hermes garden party",
+      "min": 1200
+    },
+    {
+      "keywords": "hermes oran",
+      "min": 300
+    },
+    {
+      "keywords": "lady dior",
+      "min": 1800
+    },
+    {
+      "keywords": "dior saddle",
+      "min": 1200
+    },
+    {
+      "keywords": "dior book tote",
+      "min": 1300
+    },
+    {
+      "keywords": "dior b23",
+      "min": 300
+    },
+    {
+      "keywords": "gucci jackie",
+      "min": 900
+    },
+    {
+      "keywords": "gucci dionysus",
+      "min": 800
+    },
+    {
+      "keywords": "gucci marmont",
+      "min": 700
+    },
+    {
+      "keywords": "gucci horsebit",
+      "min": 600
+    },
+    {
+      "keywords": "gucci ophidia",
+      "min": 500
+    },
+    {
+      "keywords": "gucci soho",
+      "min": 400
+    },
+    {
+      "keywords": "prada re-edition",
+      "min": 500
+    },
+    {
+      "keywords": "prada re edition",
+      "min": 500
+    },
+    {
+      "keywords": "prada galleria",
+      "min": 900
+    },
+    {
+      "keywords": "prada cleo",
+      "min": 900
+    },
+    {
+      "keywords": "goyard anjou",
+      "min": 1200
+    },
+    {
+      "keywords": "goyard artois",
+      "min": 1000
+    },
+    {
+      "keywords": "goyard saint louis",
+      "min": 700
+    },
+    {
+      "keywords": "goyard st louis",
+      "min": 700
+    },
+    {
+      "keywords": "bottega veneta jodie",
+      "min": 1100
+    },
+    {
+      "keywords": "bottega veneta cassette",
+      "min": 1000
+    },
+    {
+      "keywords": "bottega veneta pouch",
+      "min": 700
+    },
+    {
+      "keywords": "celine triomphe",
+      "min": 1500
+    },
+    {
+      "keywords": "celine luggage",
+      "min": 1000
+    },
+    {
+      "keywords": "celine belt bag",
+      "min": 800
+    },
+    {
+      "keywords": "saint laurent sac de jour",
+      "min": 900
+    },
+    {
+      "keywords": "saint laurent loulou",
+      "min": 900
+    },
+    {
+      "keywords": "saint laurent kate",
+      "min": 800
+    },
+    {
+      "keywords": "ysl loulou",
+      "min": 900
+    },
+    {
+      "keywords": "ysl kate",
+      "min": 800
+    },
+    {
+      "keywords": "fendi peekaboo",
+      "min": 1500
+    },
+    {
+      "keywords": "fendi baguette",
+      "min": 800
+    },
+    {
+      "keywords": "loewe puzzle",
+      "min": 1100
+    },
+    {
+      "keywords": "balenciaga city",
+      "min": 500
+    },
+    {
+      "keywords": "balenciaga triple s",
+      "min": 250
+    },
+    {
+      "keywords": "balenciaga speed",
+      "min": 200
+    },
+    {
+      "keywords": "canada goose expedition",
+      "min": 400
+    },
+    {
+      "keywords": "canada goose chilliwack",
+      "min": 350
+    },
+    {
+      "keywords": "canada goose langford",
+      "min": 350
+    },
+    {
+      "keywords": "canada goose shelburne",
+      "min": 300
+    },
+    {
+      "keywords": "moncler maya",
+      "min": 500
     },
     {
       "keywords": "rolex daytona",
